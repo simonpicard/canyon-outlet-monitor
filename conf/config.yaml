@@ -1,0 +1,16 @@
+mail:
+  sender: sender@mail.com
+  pw: mysgreatpassword
+  receiver: receiver@mail.com
+
+bikes_df:
+  path: path/to/bikes.csv
+  gcs: true
+  sa_path: path/to/service_account.json
+  cloud_function: true
+
+search:
+  - product_name: "pathlite:on"
+    product_size: ^(L|multi|M)$
+  - product_name: endurace
+    product_size: (^L|multi)

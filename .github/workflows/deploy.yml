@@ -1,0 +1,41 @@
+# This is a basic workflow to help you get started with Actions
+
+name: deploy_gcf
+
+# Controls when the workflow will run
+on:
+  push:
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "deploy"
+  deploy:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: actions/checkout@v2
+        name: "Checkout repo"
+
+      - id: "auth"
+        uses: "google-github-actions/auth@v0"
+        name: "Authenticate to Google Cloud"
+        with:
+          credentials_json: ${{ secrets.GCP_SA_JSON }}
+
+      - name: "Deploy cloud function"
+        id: deploy
+        uses: google-github-actions/deploy-cloud-functions@main
+        with:
+          name: canyon_monitor
+          runtime: python39
+          project_id: ${{ secrets.GCP_PID }}
+          region: us-central1
+          entry_point: pubsub_trigger
+          event_trigger_type: google.pubsub.topic.publish
+          event_trigger_resource: ${{ secrets.GCP_PUB_SUB_TOPIC }}
+          event_trigger_service: pubsub.googleapis.com

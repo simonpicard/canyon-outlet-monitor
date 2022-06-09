@@ -1,0 +1,895 @@
+product_name,product_price,product_price_new,product_size,product_color,pid,url,currency,new,active,date_scrapped
+Commuter 5,949.0,999.0,S,Anchor Grey,50022930_0001061265,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5/50022930.html,€,False,False,2022-01-02 01:40:25.044773
+Commuter 5.0,999.0,1399.0,XS,Stealth,50000429,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5.0/1955.html?dwvar_1955_pv_rahmenfarbe=BK,€,False,False,2022-01-02 01:40:25.044773
+Pathlite 6 WMN,1119.0,1199.0,XS,Light Grey,50019007_0001060672,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-6-wmn/50019007.html,€,False,False,2022-01-02 01:40:25.044773
+Commuter 6.0,1199.0,1699.0,XS,grey,50000444,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6.0/1956.html?dwvar_1956_pv_rahmenfarbe=GY,€,False,False,2022-01-02 01:40:25.044773
+Commuter 6 WMN,1319.0,1399.0,M,Anchor Grey,50022061_0001060775,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022061.html,€,False,False,2022-01-02 01:40:25.044773
+Grand Canyon 8 WMN,1349.0,1399.0,2XS,Unicorn White,50019784_0001060874,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-8-wmn/50019784.html,€,False,False,2022-01-02 01:40:25.044773
+Roadlite 7,1419.0,1499.0,S,Shadow Grey,50019761_0001061105,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-7/50019761.html,€,False,False,2022-01-02 01:40:25.044773
+Pathlite 7,1549.0,1599.0,2XL,Shadow Grey,50024554_0001060133,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-7/50024554.html,€,False,False,2022-01-02 01:40:25.044773
+Commuter 7 WMN,1599.0,1699.0,S,Champagne,50023049_0001060885,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50023049.html,€,False,False,2022-01-02 01:40:25.044773
+Grand Canyon:ON 7,2849.0,2899.0,M,Positive Red,50024653_0001061059,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-7/50024653.html,€,False,False,2022-01-02 01:40:25.044773
+Grand Canyon:ON 7,2849.0,2899.0,L,Flash Black,50026578_0001061152,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-7/50026578.html,€,False,False,2022-01-02 01:40:25.044773
+Commuter:ON 7,3049.0,3299.0,L,Dark Navy,50022901_0001061078,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022901.html,€,False,False,2022-01-02 01:40:25.044773
+Commuter:ON 7,3149.0,3299.0,XL,Dark Navy,50022081_0001061184,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022081.html,€,False,False,2022-01-02 01:40:25.044773
+Commuter:ON 7 WMN,3149.0,3299.0,M,Champagne,50023475_0001060271,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023475.html,€,False,False,2022-01-02 01:40:25.044773
+Commuter:ON 7 WMN,3149.0,3299.0,S,Champagne,50023141_0001060635,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023141.html,€,False,False,2022-01-02 01:40:25.044773
+Commuter:ON 7,3149.0,3299.0,L,Champagne,50024790_0001061178,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50024790.html,€,False,False,2022-01-02 01:40:25.044773
+Roadlite:ON 7,3149.0,3399.0,M,Light Grey,50023722_0001060111,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 8 ST,3749.0,4299.0,S,Champagne,50023052_0001060632,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50023052.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 8,3749.0,4299.0,L,Anchor Grey,50019446_0001060958,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8/50019446.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 8 ST,3899.0,4299.0,M,Anchor Grey,50019423_0001060767,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50019423.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 8 ST,3899.0,4299.0,L,Champagne,50022927_0001056718,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50022927.html,€,False,False,2022-01-02 01:40:25.044773
+Endurace CF SL Disc 8.0 RCC,3999.0,4199.0,XL,Stealth,50006683,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-disc-8.0-rcc/2485.html?dwvar_2485_pv_rahmenfarbe=BK,€,False,False,2022-01-02 01:40:25.044773
+Neuron:ON 9,4149.0,4399.0,S,Transistor Black,50023038_0001061169,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-9/50023038.html,€,False,False,2022-01-02 01:40:25.044773
+Spectral 29 CF 8,4199.0,4299.0,XL,Exhaust Black,50019575_0001061089,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-8/50019575.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 9 ST,4349.0,4999.0,S,Champagne,50023563_0001059427,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023563.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 9 ST,4349.0,4999.0,M,Anchor Grey,50024608_0001060863,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024608.html,€,False,False,2022-01-02 01:40:25.044773
+Grizl CF SLX 8 1by,4349.0,4599.0,XL,Kale Smash,50029623_0001060380,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-1by/50029623.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 9,4349.0,4999.0,L,Champagne,50024629_0001060629,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024629.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 9 ST,4349.0,4999.0,L,Anchor Grey,50023456_0001059342,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023456.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 9 ST,4349.0,4999.0,XS,Anchor Grey,50024749_0001060595,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024749.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 9 ST,4499.0,4999.0,S,Anchor Grey,50024540_0001058729,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024540.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 9,4499.0,4999.0,M,Champagne,50024771_0001059165,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024771.html,€,False,False,2022-01-02 01:40:25.044773
+Precede:ON CF 9 ST,4499.0,4999.0,M,Champagne,50023779_0001060568,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023779.html,€,False,False,2022-01-02 01:40:25.044773
+Grail:ON CF 7,4599.0,4999.0,L,Discovery Blue,50024576_0001060661,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7/50024576.html,€,False,False,2022-01-02 01:40:25.044773
+Grail:ON CF 7,4599.0,4999.0,2XS,Discovery Blue,50022162_0001060504,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7/50022162.html,€,False,False,2022-01-02 01:40:25.044773
+Grail:ON CF 7 WMN,4649.0,4999.0,XS,Rosewood Red,50019275_0001060852,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7-wmn/50019275.html,€,False,False,2022-01-02 01:40:25.044773
+Spectral 29 CF 9,4799.0,5199.0,M,Exhaust Black,50022213_0001060825,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50022213.html,€,False,False,2022-01-02 01:40:25.044773
+Speedmax CF SLX 8.0,4799.0,5799.0,S,pearl city black,50006660,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-8.0/2423.html?dwvar_2423_pv_rahmenfarbe=BK%2FGY,€,False,False,2022-01-02 01:40:25.044773
+Grizl CF SLX 8 eTap Suspension,4899.0,4999.0,L,Grape Explosion,50029830_0001061026,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-etap-suspension/50029830.html,€,False,False,2022-01-02 01:40:25.044773
+Speedmax CF 7 Disc eTap,4899.0,4999.0,S,Off White,50029695_0001061037,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029695.html,€,False,False,2022-01-02 01:40:25.044773
+Sender CFR,4999.0,5799.0,L,CFR Team,50023755_0001060902,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50023755.html,€,False,False,2022-01-02 01:40:25.044773
+Sender CFR,4999.0,5799.0,S,CFR Team,50019363_0001060998,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019363.html,€,False,False,2022-01-02 01:40:25.044773
+Spectral:ON CF 8.0,5199.0,5599.0,XL,Shades of Purple,50005681,https://www.canyon.com/fr-be/velo-electrique/vtt-electrique/spectral-on/spectral-on-cf-8.0/2261.html?dwvar_2261_pv_rahmenfarbe=VT%2FBK,€,False,False,2022-01-02 01:40:25.044773
+Sender CFR,5199.0,5799.0,XL,CFR Team,50024589_0001060861,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50024589.html,€,False,False,2022-01-02 01:40:25.044773
+Speedmax CF 8 DISC Di2,5649.0,5799.0,XL,Non Mint,50024807_0001059494,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-di2/50024807.html,€,False,False,2022-01-02 01:40:25.044773
+Grail:ON CF 8 eTap,5699.0,6199.0,XL,Discovery Blue,50029628_0001059973,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-8-etap/50029628.html,€,False,False,2022-01-02 01:40:25.044773
+Speedmax CF 8 WMN Disc Di2,5699.0,5799.0,M,Light Lobster,50029873_0001061118,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-wmn-disc-di2/50029873.html,€,False,False,2022-01-02 01:40:25.044773
+Spectral:ON CF 9.0,5949.0,6999.0,XL,Shades of Shades,50019545_0001061179,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-9.0/50019545.html,€,False,False,2022-01-02 01:40:25.044773
+Speedmax WMN CF SLX 8.0 SL,5999.0,6899.0,multi,waikiki pink,50001054,https://www.canyon.com/fr-be/promo-velos/route/speedmax-wmn-cf-slx-8.0-sl/2113.html?dwvar_2113_pv_rahmenfarbe=BK%2FRD,€,False,False,2022-01-02 01:40:25.044773
+Speedmax CF SLX 8.0 SL,5999.0,6899.0,S,pearl city black,50001298,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-8.0-sl/2143.html?dwvar_2143_pv_rahmenfarbe=BK%2FGY,€,False,False,2022-01-02 01:40:25.044773
+Speedmax CF SLX 9.0 TT,8499.0,9499.0,multi,half blue,50001316,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/2146.html?dwvar_2146_pv_rahmenfarbe=BK%2FBU,€,False,False,2022-01-02 01:40:25.044773
+Inflite CF SLX Disc Frameset,1499.0,1999.0,2XS,lightning yellow,153879,https://www.canyon.com/fr-be/velos-de-route/velos-cyclo-cross/inflite/cf-slx/inflite-cf-slx-disc-frameset/1661.html?dwvar_1661_pv_rahmenfarbe=YE,€,False,False,2022-01-02 01:40:25.044773
+Pathlite:ON 9.0,4849.0,4999.0,L,Tundra Green,50019004_0001060639,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019004.html,€,False,False,2022-01-02 05:00:07.923856
+Grizl CF SLX 8 eTap Suspension,4899.0,4999.0,L,Grape Explosion,50029830_0001061026,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-etap-suspension/50029830.html,€,False,False,2022-01-02 05:00:07.923856
+Speedmax CF 7 Disc eTap,4899.0,4999.0,S,Off White,50029695_0001061037,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029695.html,€,False,False,2022-01-02 05:00:07.923856
+Sender CFR,4999.0,5799.0,L,CFR Team,50023755_0001060902,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50023755.html,€,False,False,2022-01-02 05:00:07.923856
+Sender CFR,4999.0,5799.0,S,CFR Team,50019363_0001060998,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019363.html,€,False,False,2022-01-02 05:00:07.923856
+Spectral:ON CF 8.0,5199.0,5599.0,XL,Shades of Purple,50005681,https://www.canyon.com/fr-be/velo-electrique/vtt-electrique/spectral-on/spectral-on-cf-8.0/2261.html?dwvar_2261_pv_rahmenfarbe=VT%2FBK,€,False,False,2022-01-02 05:00:07.923856
+Sender CFR,5199.0,5799.0,XL,CFR Team,50024589_0001060861,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50024589.html,€,False,False,2022-01-02 05:00:07.923856
+Speedmax CF 8 DISC Di2,5649.0,5799.0,XL,Non Mint,50024807_0001059494,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-di2/50024807.html,€,False,False,2022-01-02 05:00:07.923856
+Grail:ON CF 8 eTap,5699.0,6199.0,XL,Discovery Blue,50029628_0001059973,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-8-etap/50029628.html,€,False,False,2022-01-02 05:00:07.923856
+Speedmax CF 8 WMN Disc Di2,5699.0,5799.0,M,Light Lobster,50029873_0001061118,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-wmn-disc-di2/50029873.html,€,False,False,2022-01-02 05:00:07.923856
+Spectral:ON CF 9.0,5949.0,6999.0,XL,Shades of Shades,50019545_0001061179,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-9.0/50019545.html,€,False,False,2022-01-02 05:00:07.923856
+Speedmax WMN CF SLX 8.0 SL,5999.0,6899.0,multi,waikiki pink,50001054,https://www.canyon.com/fr-be/promo-velos/route/speedmax-wmn-cf-slx-8.0-sl/2113.html?dwvar_2113_pv_rahmenfarbe=BK%2FRD,€,False,False,2022-01-02 05:00:07.923856
+Speedmax CF SLX 8.0 SL,5999.0,6899.0,S,pearl city black,50001298,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-8.0-sl/2143.html?dwvar_2143_pv_rahmenfarbe=BK%2FGY,€,False,False,2022-01-02 05:00:07.923856
+Spectral 29 CFR,6299.0,6499.0,L,Ag 47,50029798_0001060884,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cfr/50029798.html,€,False,False,2022-01-02 05:00:07.923856
+Speedmax CF SLX 9.0 SL,6499.0,8899.0,S,pearl city black,50009220_0001060323,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/50009220.html,€,False,False,2022-01-02 05:00:07.923856
+Speedmax CF SLX 9.0 SL,6999.0,8899.0,multi,pearl city black,50001307,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/2144.html?dwvar_2144_pv_rahmenfarbe=BK%2FBU,€,False,False,2022-01-02 05:00:07.923856
+Speedmax CF SLX 9.0 LTD,7999.0,9899.0,multi,pearl city black,50001310,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-ltd/2145.html?dwvar_2145_pv_rahmenfarbe=BK%2FGY,€,False,False,2022-01-02 05:00:07.923856
+Speedmax CF SLX 9.0 TT,8499.0,9499.0,multi,half blue,50001316,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/2146.html?dwvar_2146_pv_rahmenfarbe=BK%2FBU,€,False,False,2022-01-02 05:00:07.923856
+Inflite CF SLX Disc Frameset,1499.0,1999.0,2XS,lightning yellow,153879,https://www.canyon.com/fr-be/velos-de-route/velos-cyclo-cross/inflite/cf-slx/inflite-cf-slx-disc-frameset/1661.html?dwvar_1661_pv_rahmenfarbe=YE,€,False,False,2022-01-02 05:00:07.923856
+Grand Canyon:ON 7,2849.0,2899.0,L,Flash Black,50026578_0001061152,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-7/50026578.html,€,False,False,2022-01-03 05:00:11.612429
+Grand Canyon:ON 7,2849.0,2899.0,M,Positive Red,50024653_0001061059,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-7/50024653.html,€,False,False,2022-01-03 05:00:11.612429
+Roadlite:ON 7,3149.0,3399.0,M,Light Grey,50023722_0001060111,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,False,2022-01-03 05:00:11.612429
+Commuter:ON 7,3149.0,3299.0,L,Champagne,50024790_0001061178,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50024790.html,€,False,False,2022-01-03 05:00:11.612429
+Commuter:ON 7,3149.0,3299.0,XL,Dark Navy,50022081_0001061184,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022081.html,€,False,False,2022-01-03 05:00:11.612429
+Commuter:ON 7,3149.0,3299.0,L,Dark Navy,50022901_0001061174,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022901.html,€,False,False,2022-01-03 05:00:11.612429
+Commuter:ON 7 WMN,3149.0,3299.0,M,Champagne,50023475_0001060773,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023475.html,€,False,False,2022-01-03 05:00:11.612429
+Commuter:ON 7 WMN,3149.0,3299.0,S,Champagne,50023141_0001060635,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023141.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 8,3749.0,4299.0,L,Anchor Grey,50019446_0001060958,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8/50019446.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 8 ST,3749.0,4299.0,S,Champagne,50023052_0001060632,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50023052.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 8 ST,3899.0,4299.0,L,Champagne,50022927_0001056718,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50022927.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 8 ST,3899.0,4299.0,M,Anchor Grey,50019423_0001060767,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50019423.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 9 ST,4349.0,4999.0,XS,Anchor Grey,50024749_0001060595,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024749.html,€,False,False,2022-01-03 05:00:11.612429
+Grizl CF SLX 8 1by,4349.0,4599.0,XL,Kale Smash,50029623_0001060380,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-1by/50029623.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 9 ST,4349.0,4999.0,M,Anchor Grey,50024608_0001060863,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024608.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 9 ST,4349.0,4999.0,S,Champagne,50023563_0001060637,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023563.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 9,4349.0,4999.0,L,Champagne,50024629_0001060629,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024629.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 9 ST,4499.0,4999.0,M,Champagne,50023779_0001060568,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023779.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 9 ST,4499.0,4999.0,S,Anchor Grey,50024540_0001058729,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024540.html,€,False,False,2022-01-03 05:00:11.612429
+Precede:ON CF 9,4499.0,4999.0,M,Champagne,50024771_0001059165,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024771.html,€,False,False,2022-01-03 05:00:11.612429
+Grail:ON CF 7,4599.0,4999.0,2XS,Discovery Blue,50022162_0001060504,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7/50022162.html,€,False,False,2022-01-03 05:00:11.612429
+Grail:ON CF 7,4599.0,4999.0,L,Discovery Blue,50024576_0001060661,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7/50024576.html,€,False,False,2022-01-03 05:00:11.612429
+Speedmax CF SLX 8.0,4799.0,5799.0,S,pearl city black,50006660,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-8.0/2423.html?dwvar_2423_pv_rahmenfarbe=BK%2FGY,€,False,False,2022-01-03 05:00:11.612429
+Pathlite:ON 9.0,4849.0,4999.0,L,Tundra Green,50019004_0001060639,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019004.html,€,False,False,2022-01-03 05:00:11.612429
+Grizl CF SLX 8 eTap Suspension,4899.0,4999.0,L,Grape Explosion,50029830_0001061026,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-etap-suspension/50029830.html,€,False,False,2022-01-03 05:00:11.612429
+Speedmax CF 7 Disc eTap,4899.0,4999.0,S,Off White,50029695_0001061037,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029695.html,€,False,False,2022-01-03 05:00:11.612429
+Sender CFR,4999.0,5799.0,S,CFR Team,50019363_0001060998,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019363.html,€,False,False,2022-01-03 05:00:11.612429
+Sender CFR,4999.0,5799.0,L,CFR Team,50023755_0001060902,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50023755.html,€,False,False,2022-01-03 05:00:11.612429
+Spectral:ON CF 8.0,5199.0,5599.0,XL,Shades of Purple,50005681,https://www.canyon.com/fr-be/velo-electrique/vtt-electrique/spectral-on/spectral-on-cf-8.0/2261.html?dwvar_2261_pv_rahmenfarbe=VT%2FBK,€,False,False,2022-01-03 05:00:11.612429
+Sender CFR,5199.0,5799.0,XL,CFR Team,50024589_0001060861,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50024589.html,€,False,False,2022-01-03 05:00:11.612429
+Speedmax CF 8 DISC Di2,5649.0,5799.0,XL,Non Mint,50024807_0001059494,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-di2/50024807.html,€,False,False,2022-01-03 05:00:11.612429
+Speedmax CF 8 WMN Disc Di2,5699.0,5799.0,M,Light Lobster,50029873_0001061118,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-wmn-disc-di2/50029873.html,€,False,False,2022-01-03 05:00:11.612429
+Grail:ON CF 8 eTap,5699.0,6199.0,XL,Discovery Blue,50029628_0001059973,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-8-etap/50029628.html,€,False,False,2022-01-03 05:00:11.612429
+Spectral:ON CF 9.0,5949.0,6999.0,XL,Shades of Shades,50019545_0001061179,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-9.0/50019545.html,€,False,False,2022-01-03 05:00:11.612429
+Speedmax CF SLX 8.0 SL,5999.0,6899.0,S,pearl city black,50001298,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-8.0-sl/2143.html?dwvar_2143_pv_rahmenfarbe=BK%2FGY,€,False,False,2022-01-03 05:00:11.612429
+Speedmax WMN CF SLX 8.0 SL,5999.0,6899.0,multi,waikiki pink,50001054,https://www.canyon.com/fr-be/promo-velos/route/speedmax-wmn-cf-slx-8.0-sl/2113.html?dwvar_2113_pv_rahmenfarbe=BK%2FRD,€,False,False,2022-01-03 05:00:11.612429
+Spectral 29 CFR,6299.0,6499.0,L,Ag 47,50029798_0001060884,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cfr/50029798.html,€,False,False,2022-01-03 05:00:11.612429
+Speedmax CF SLX 9.0 SL,6499.0,8899.0,S,pearl city black,50009220_0001060323,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/50009220.html,€,False,False,2022-01-03 05:00:11.612429
+Speedmax CF SLX 9.0 SL,6999.0,8899.0,multi,pearl city black,50001305,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/2144.html?dwvar_2144_pv_rahmenfarbe=BK%2FGY,€,False,False,2022-01-03 05:00:11.612429
+Speedmax CF SLX 9.0 LTD,7999.0,9899.0,multi,pearl city black,50001310,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-ltd/2145.html?dwvar_2145_pv_rahmenfarbe=BK%2FGY,€,False,False,2022-01-03 05:00:11.612429
+Speedmax CF SLX 9.0 TT,8499.0,9499.0,multi,half blue,50001316,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/2146.html?dwvar_2146_pv_rahmenfarbe=BK%2FBU,€,False,False,2022-01-03 05:00:11.612429
+Inflite CF SLX Disc Frameset,1499.0,1999.0,2XS,lightning yellow,153879,https://www.canyon.com/fr-be/velos-de-route/velos-cyclo-cross/inflite/cf-slx/inflite-cf-slx-disc-frameset/1661.html?dwvar_1661_pv_rahmenfarbe=YE,€,False,False,2022-01-03 05:00:11.612429
+Commuter Sport 5.0,799.0,1099.0,XS,Stealth,50000705,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-sport-5.0/1959.html?dwvar_1959_pv_rahmenfarbe=BK,€,False,True,2022-01-02 01:40:25.044773
+Roadlite 5,829.0,899.0,2XL,Light Grey - Mint,50019486_0001060994,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-5/50019486.html,€,False,True,2022-01-02 01:40:25.044773
+Commuter 4.0,849.0,1099.0,XS,Stealth,50018590_0001061130,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-4.0/50018590.html,€,False,True,2022-01-02 01:40:25.044773
+Commuter 4.0,899.0,1099.0,XS,Stealth,50000419,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-4.0/1954.html?dwvar_1954_pv_rahmenfarbe=BK,€,False,True,2022-01-02 01:40:25.044773
+Roadlite CF 8,1899.0,1999.0,XL,Light Grey - Mint,50022154_0001060193,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8/50022154.html,€,False,True,2022-01-02 01:40:25.044773
+Commuter 8.0,2199.0,2399.0,M,grey,50013548_0001060714,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8.0/50013548.html,€,False,True,2022-01-02 01:40:25.044773
+Roadlite:ON AL 7.0,2249.0,2699.0,XL,pace grey,50013965_0001060407,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-al-7.0/50013965.html,€,False,True,2022-01-02 01:40:25.044773
+Pathlite:ON 4,2449.0,2499.0,L,Lake Blue,50029631_0001060018,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-4/50029631.html,€,False,True,2022-01-02 01:40:25.044773
+Roadlite:ON 6,2649.0,2799.0,XS,Shadow Grey,50024617_0001059845,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50024617.html,€,False,True,2022-01-02 01:40:25.044773
+Pathlite:ON 5,2649.0,2699.0,XL,Lake Blue,50029891_0001061155,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-5/50029891.html,€,False,True,2022-01-02 01:40:25.044773
+Roadlite:ON AL 8.0,2749.0,3299.0,XS,Stealth,50004420,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-al-8.0/2294.html?dwvar_2294_pv_rahmenfarbe=BK,€,False,True,2022-01-02 01:40:25.044773
+Roadlite:ON AL 8.0,2799.0,3299.0,XS,Stealth,50014818_0001060274,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-al-8.0/50014818.html,€,False,True,2022-01-02 01:40:25.044773
+Commuter:ON 7,3199.0,3299.0,M,Champagne,50023606_0001060816,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50023606.html,€,False,True,2022-01-02 01:40:25.044773
+Commuter:ON 7 WMN,3249.0,3299.0,M,Cherry,50024662_0001061091,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50024662.html,€,False,True,2022-01-02 01:40:25.044773
+Roadlite:ON 7,3249.0,3399.0,L,Light Grey,50023804_0001060387,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023804.html,€,False,True,2022-01-02 01:40:25.044773
+Roadlite:ON 7,3299.0,3399.0,S,Light Grey,50023763_0001059954,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023763.html,€,False,True,2022-01-02 01:40:25.044773
+Pathlite:ON 7,3349.0,3399.0,M,Stealth,50019482_0001061062,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50019482.html,€,False,True,2022-01-02 01:40:25.044773
+Roadlite CF 9 LTD,3399.0,3499.0,M,Shadow Grey,50019383_0001060887,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-9-ltd/50019383.html,€,False,True,2022-01-02 01:40:25.044773
+Precede:ON CF 8 ST,3899.0,4299.0,L,Anchor Grey,50024607_0001058501,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50024607.html,€,False,True,2022-01-02 01:40:25.044773
+Commuter 5.0,999.0,1399.0,XS,Stealth,50000429,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5.0/1955.html?dwvar_1955_pv_rahmenfarbe=BK,€,False,True,2022-01-04 05:00:11.842565
+Pathlite 6 WMN,1119.0,1199.0,XS,Light Grey,50019007_0001060672,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-6-wmn/50019007.html,€,False,True,2022-01-04 05:00:11.842565
+Commuter 6.0,1199.0,1699.0,XS,grey,50000444,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6.0/1956.html?dwvar_1956_pv_rahmenfarbe=GY,€,False,True,2022-01-04 05:00:11.842565
+Commuter 6 WMN,1319.0,1399.0,M,Anchor Grey,50022061_0001060775,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022061.html,€,False,True,2022-01-04 05:00:11.842565
+Grand Canyon 8 WMN,1349.0,1399.0,2XS,Unicorn White,50019784_0001060874,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-8-wmn/50019784.html,€,False,True,2022-01-04 05:00:11.842565
+Roadlite 7,1419.0,1499.0,S,Shadow Grey,50019761_0001061105,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-7/50019761.html,€,False,True,2022-01-04 05:00:11.842565
+Pathlite 7,1549.0,1599.0,2XL,Shadow Grey,50024554_0001060133,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-7/50024554.html,€,False,True,2022-01-04 05:00:11.842565
+Commuter 7 WMN,1599.0,1699.0,S,Champagne,50023049_0001060885,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50023049.html,€,False,True,2022-01-04 05:00:11.842565
+Exceed CF 5,1749.0,1799.0,L,Quick Silver,50009840,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/2636.html?dwvar_2636_pv_rahmenfarbe=SR%2FBK,€,False,True,2022-01-04 05:00:11.842565
+Grand Canyon:ON 7,2849.0,2899.0,L,Flash Black,50026578_0001061152,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-7/50026578.html,€,False,True,2022-01-04 05:00:11.842565
+Grand Canyon:ON 7,2849.0,2899.0,M,Positive Red,50024653_0001061059,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-7/50024653.html,€,False,True,2022-01-04 05:00:11.842565
+Commuter:ON 7,3149.0,3299.0,L,Champagne,50024790_0001061178,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50024790.html,€,False,True,2022-01-04 05:00:11.842565
+Roadlite:ON 7,3149.0,3399.0,M,Light Grey,50023722_0001060111,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,True,2022-01-04 05:00:11.842565
+Commuter:ON 7,3149.0,3299.0,XL,Dark Navy,50022081_0001061184,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022081.html,€,False,True,2022-01-04 05:00:11.842565
+Commuter:ON 7 WMN,3149.0,3299.0,S,Champagne,50023141_0001060635,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023141.html,€,False,True,2022-01-04 05:00:11.842565
+Commuter:ON 7,3149.0,3299.0,L,Dark Navy,50022901_0001061174,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022901.html,€,False,True,2022-01-04 05:00:11.842565
+Commuter:ON 7 WMN,3149.0,3299.0,M,Champagne,50023475_0001060773,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023475.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 8 ST,3749.0,4299.0,S,Champagne,50023052_0001060632,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50023052.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 8,3749.0,4299.0,L,Anchor Grey,50019446_0001060958,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8/50019446.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 8 ST,3899.0,4299.0,L,Champagne,50022927_0001056718,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50022927.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 8 ST,3899.0,4299.0,M,Anchor Grey,50019423_0001060767,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50019423.html,€,False,True,2022-01-04 05:00:11.842565
+Spectral 29 CF 8,4199.0,4299.0,XL,Exhaust Black,50019575_0001061089,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-8/50019575.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 9 ST,4349.0,4999.0,S,Champagne,50023563_0001059427,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023563.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 9 ST,4349.0,4999.0,XS,Anchor Grey,50024749_0001060595,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024749.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 9 ST,4349.0,4999.0,M,Anchor Grey,50024608_0001060863,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024608.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 9 ST,4349.0,4999.0,L,Anchor Grey,50023456_0001059342,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023456.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 9 ST,4499.0,4999.0,S,Anchor Grey,50024540_0001058729,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024540.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 9 ST,4499.0,4999.0,M,Champagne,50023779_0001060568,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023779.html,€,False,True,2022-01-04 05:00:11.842565
+Precede:ON CF 9,4499.0,4999.0,M,Champagne,50024771_0001060473,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024771.html,€,False,True,2022-01-04 05:00:11.842565
+Grail:ON CF 7,4599.0,4999.0,2XS,Discovery Blue,50022162_0001060504,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7/50022162.html,€,False,True,2022-01-04 05:00:11.842565
+Grail:ON CF 7,4599.0,4999.0,L,Discovery Blue,50024576_0001060661,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7/50024576.html,€,False,True,2022-01-04 05:00:11.842565
+Grail:ON CF 7 WMN,4649.0,4999.0,XS,Rosewood Red,50019275_0001060852,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7-wmn/50019275.html,€,False,True,2022-01-04 05:00:11.842565
+Speedmax CF SLX 8.0,4799.0,5799.0,S,pearl city black,50006660,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-8.0/2423.html?dwvar_2423_pv_rahmenfarbe=BK%2FGY,€,False,True,2022-01-04 05:00:11.842565
+Pathlite:ON 9.0,4849.0,4999.0,L,Tundra Green,50019004_0001060639,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019004.html,€,False,True,2022-01-04 05:00:11.842565
+Grizl CF SLX 8 eTap Suspension,4899.0,4999.0,L,Grape Explosion,50029830_0001061026,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-etap-suspension/50029830.html,€,False,True,2022-01-04 05:00:11.842565
+Speedmax CF 7 Disc eTap,4899.0,4999.0,S,Off White,50029695_0001061037,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029695.html,€,False,True,2022-01-04 05:00:11.842565
+Sender CFR,4999.0,5799.0,L,CFR Team,50023755_0001060902,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50023755.html,€,False,True,2022-01-04 05:00:11.842565
+Sender CFR,4999.0,5799.0,S,CFR Team,50019363_0001060998,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019363.html,€,False,True,2022-01-04 05:00:11.842565
+Spectral:ON CF 8.0,5199.0,5599.0,XL,Shades of Purple,50005681,https://www.canyon.com/fr-be/velo-electrique/vtt-electrique/spectral-on/spectral-on-cf-8.0/2261.html?dwvar_2261_pv_rahmenfarbe=VT%2FBK,€,False,True,2022-01-04 05:00:11.842565
+Sender CFR,5199.0,5799.0,XL,CFR Team,50024589_0001061111,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50024589.html,€,False,True,2022-01-04 05:00:11.842565
+Speedmax CF 8 DISC Di2,5649.0,5799.0,XL,Non Mint,50024807_0001059494,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-di2/50024807.html,€,False,True,2022-01-04 05:00:11.842565
+Speedmax CF 8 WMN Disc Di2,5699.0,5799.0,M,Light Lobster,50029873_0001061118,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-wmn-disc-di2/50029873.html,€,False,True,2022-01-04 05:00:11.842565
+Spectral:ON CF 9.0,5949.0,6999.0,XL,Shades of Shades,50019545_0001061179,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-9.0/50019545.html,€,False,True,2022-01-04 05:00:11.842565
+Speedmax CF SLX 8.0 SL,5999.0,6899.0,S,pearl city black,50001298,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-8.0-sl/2143.html?dwvar_2143_pv_rahmenfarbe=BK%2FGY,€,False,True,2022-01-04 05:00:11.842565
+Speedmax WMN CF SLX 8.0 SL,5999.0,6899.0,multi,waikiki pink,50001054,https://www.canyon.com/fr-be/promo-velos/route/speedmax-wmn-cf-slx-8.0-sl/2113.html?dwvar_2113_pv_rahmenfarbe=BK%2FRD,€,False,True,2022-01-04 05:00:11.842565
+Spectral 29 CFR,6299.0,6499.0,L,Ag 47,50029798_0001060884,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cfr/50029798.html,€,False,True,2022-01-04 05:00:11.842565
+Speedmax CF SLX 9.0 SL,6499.0,8899.0,S,pearl city black,50009220_0001060323,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/50009220.html,€,False,True,2022-01-04 05:00:11.842565
+Speedmax CF SLX 9.0 SL,6999.0,8899.0,multi,pearl city black,50001304,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/2144.html?dwvar_2144_pv_rahmenfarbe=BK%2FGY,€,False,True,2022-01-04 05:00:11.842565
+Speedmax CF SLX 9.0 LTD,7999.0,9899.0,multi,pearl city black,50001310,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-ltd/2145.html?dwvar_2145_pv_rahmenfarbe=BK%2FGY,€,False,True,2022-01-04 05:00:11.842565
+Speedmax CF SLX 9.0 TT,8499.0,9499.0,multi,half blue,50001316,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/2146.html?dwvar_2146_pv_rahmenfarbe=BK%2FBU,€,False,True,2022-01-04 05:00:11.842565
+Inflite CF SLX Disc Frameset,1499.0,1999.0,2XS,lightning yellow,153879,https://www.canyon.com/fr-be/velos-de-route/velos-cyclo-cross/inflite/cf-slx/inflite-cf-slx-disc-frameset/1661.html?dwvar_1661_pv_rahmenfarbe=YE,€,False,True,2022-01-04 05:00:11.842565
+Inflite CF SL 7,2649.0,2799.0,L,Team Replica Alpecin-Fenix,50018635_0001060567,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-sl-7/50018635.html,€,False,True,2022-01-04 12:29:55.627245
+Lux CF 6,2849.0,2999.0,S,Race Black,50029665_0001060273,https://www.canyon.com/fr-be/promo-velos/vtt/lux-cf-6/50029665.html,€,False,True,2022-01-04 12:29:55.627245
+Precede:ON CF 9 ST,4349.0,4999.0,S,Champagne,50023563_0001060637,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023563.html,€,False,True,2022-01-04 12:29:55.627245
+Precede:ON CF 9,4499.0,4999.0,M,Champagne,50024771_0001059165,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024771.html,€,False,True,2022-01-04 12:29:55.627245
+Sender CFR,5199.0,5799.0,L,CFR Team,50023755_0001060899,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50023755.html,€,False,True,2022-01-05 05:00:16.853952
+Grand Canyon 7,1119.0,1199.0,M,Spark Blue,50019388_0001061269,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-7/50019388.html,€,False,True,2022-01-06 05:00:16.120580
+Exceed CF 5,1749.0,1799.0,M,Quick Silver,50009844,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/2636.html?dwvar_2636_pv_rahmenfarbe=RD%2FBK,€,False,True,2022-01-06 05:00:16.120580
+Roadlite:ON AL 7.0,2249.0,2699.0,XL,pace grey,50013965_0001061164,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-al-7.0/50013965.html,€,False,True,2022-01-06 05:00:16.120580
+Commuter:ON 7,3149.0,3299.0,L,Dark Navy,50022901_0001059760,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022901.html,€,False,True,2022-01-06 05:00:16.120580
+Roadlite:ON 7,3249.0,3399.0,M,Light Grey,50023722_0001060363,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,True,2022-01-06 05:00:16.120580
+Grand Canyon:ON 8 WMN,3249.0,3299.0,M,Charged Mint,50023455_0001060960,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-8-wmn/50023455.html,€,False,True,2022-01-06 05:00:16.120580
+Roadlite:ON 7,3249.0,3399.0,L,Light Grey,50023804_0001061277,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023804.html,€,False,True,2022-01-06 05:00:16.120580
+Endurace CF SL Disc 8.0 RCH,3549.0,4199.0,XL,Stealth,50029637_0001061281,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-disc-8.0-rch/50029637.html,€,False,True,2022-01-06 05:00:16.120580
+Precede:ON CF 8 ST,3749.0,4299.0,M,Champagne,50022186_0001061181,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50022186.html,€,False,True,2022-01-06 05:00:16.120580
+Precede:ON CF 8,3899.0,4299.0,M,Champagne,50023564_0001061270,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8/50023564.html,€,False,True,2022-01-06 05:00:16.120580
+Precede:ON CF 8,3899.0,4299.0,XL,Champagne,50023031_0001061275,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8/50023031.html,€,False,True,2022-01-06 05:00:16.120580
+Precede:ON CF 9,4499.0,4999.0,M,Champagne,50024771_0001059737,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024771.html,€,False,True,2022-01-06 05:00:16.120580
+Precede:ON CF 9 ST,4499.0,4999.0,M,Anchor Grey,50024608_0001060762,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024608.html,€,False,True,2022-01-06 05:00:16.120580
+Exceed CF 5,1699.0,1799.0,XL,Quick Silver,50019554_0001060442,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/50019554.html,€,False,True,2022-01-07 05:00:12.460479
+Exceed CF 5,1749.0,1799.0,multi,Quick Silver,50009838,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/2636.html?dwvar_2636_pv_rahmenfarbe=SR%2FBK,€,False,True,2022-01-07 05:00:12.460479
+Roadlite:ON 6,2599.0,2799.0,L,Shadow Grey,50024609_0001061082,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50024609.html,€,False,True,2022-01-07 05:00:12.460479
+Grand Canyon:ON 8,3149.0,3299.0,M,Positive Red,50023584_0001060718,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-8/50023584.html,€,False,True,2022-01-07 05:00:12.460479
+Inflite CF SLX 9,4099.0,4199.0,L,Super Pink,50010774,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-slx-9/2657.html?dwvar_2657_pv_rahmenfarbe=BK%2FPK,€,False,True,2022-01-07 05:00:12.460479
+Grizl CF SLX 8 eTap Suspension,4899.0,4999.0,S,Grape Explosion,50029820_0001061027,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-etap-suspension/50029820.html,€,False,True,2022-01-07 05:00:12.460479
+Speedmax CF SLX 9.0 SL,6999.0,8899.0,multi,pearl city black,50001307,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/2144.html?dwvar_2144_pv_rahmenfarbe=BK%2FBU,€,False,True,2022-01-07 05:00:12.460479
+Pathlite 6,1119.0,1199.0,2XL,Light Grey,50023568_0001060668,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-6/50023568.html,€,False,True,2022-01-08 05:00:17.469789
+Exceed CF 5,1749.0,1799.0,multi,Quick Silver,50009837,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/2636.html?dwvar_2636_pv_rahmenfarbe=SR%2FBK,€,False,True,2022-01-08 05:00:17.469789
+Torque CF 7,3299.0,3699.0,M,X-Ray,50023569_0001060547,https://www.canyon.com/fr-be/promo-velos/vtt/torque-cf-7/50023569.html,€,False,True,2022-01-08 05:00:17.469789
+Endurace WMN CF SL Disc 8.0 RCH,3999.0,4199.0,2XS,Shiny Stealth,50006677,https://www.canyon.com/fr-be/promo-velos/route/endurace-wmn-cf-sl-disc-8.0-rch/2484.html?dwvar_2484_pv_rahmenfarbe=BK,€,False,True,2022-01-08 05:00:17.469789
+Endurace CF SL Disc 8.0 RCC,3999.0,4199.0,2XS,Stealth,50006678,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-disc-8.0-rcc/2485.html?dwvar_2485_pv_rahmenfarbe=BK,€,False,True,2022-01-08 05:00:17.469789
+Precede:ON CF 9,4499.0,4999.0,L,Champagne,50024629_0001061149,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024629.html,€,False,True,2022-01-08 05:00:17.469789
+Speedmax CF SLX 9.0 SL,6999.0,8899.0,multi,pearl city black,50001305,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/2144.html?dwvar_2144_pv_rahmenfarbe=BK%2FGY,€,False,True,2022-01-08 05:00:17.469789
+Ultimate CF SLX 9 Di2 LTD RSVP,7499.0,7599.0,M,Pure Purple,50021403,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cf-slx-9-di2-ltd-rsvp/3492.html?dwvar_3492_pv_rahmenfarbe=R049_P66,€,False,True,2022-01-08 05:00:17.469789
+Speedmax CF SLX 9.0 LTD,7999.0,9899.0,multi,pearl city black,50001311,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-ltd/2145.html?dwvar_2145_pv_rahmenfarbe=BK%2FGY,€,False,True,2022-01-08 05:00:17.469789
+Exceed CF 5,1749.0,1799.0,multi,Quick Silver,50009844,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/2636.html?dwvar_2636_pv_rahmenfarbe=RD%2FBK,€,False,True,2022-01-09 05:00:14.026969
+Roadlite:ON 7,3249.0,3399.0,M,Light Grey,50023722_0001061278,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,True,2022-01-09 05:00:14.026969
+Speedmax CF SLX 9.0 SL,6999.0,8899.0,multi,pearl city black,50001308,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/2144.html?dwvar_2144_pv_rahmenfarbe=BK%2FBU,€,False,True,2022-01-10 05:00:11.621906
+Commuter 8.0,2099.0,2399.0,M,grey,50013548_0001060714,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8.0/50013548.html,€,False,True,2022-01-11 05:00:12.466748
+Roadlite:ON 6,2649.0,2799.0,XS,Shadow Grey,50024617_0001059871,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50024617.html,€,False,True,2022-01-11 05:00:12.466748
+Commuter 8.0,2199.0,2399.0,L,grey,50014528_0001059971,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8.0/50014528.html,€,False,True,2022-01-12 05:00:08.640722
+Roadlite:ON 7,3249.0,3399.0,S,Light Grey,50023763_0001060805,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023763.html,€,False,True,2022-01-12 05:00:08.640722
+Spectral:ON CF 7,4949.0,5199.0,XL,Shades of Purple,50025903_0001058839,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-7/50025903.html,€,False,True,2022-01-12 05:00:08.640722
+Roadlite 5 WMN,829.0,899.0,M,Light Grey - Raspberry,50019126_0001061377,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-5-wmn/50019126.html,€,False,True,2022-01-14 05:00:15.910219
+Exceed CF 5,1749.0,1799.0,M,Rapid Red,50009844,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/2636.html?dwvar_2636_pv_rahmenfarbe=RD%2FBK,€,False,True,2022-01-14 05:00:15.910219
+Commuter 8.0,2049.0,2399.0,XL,Petrol,50014910_0001061464,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8.0/50014910.html,€,False,True,2022-01-14 05:00:15.910219
+Endurace:ON 7.0,2499.0,2999.0,M,Asphalt Black,50017964_0001052569,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50017964.html,€,False,True,2022-01-14 05:00:15.910219
+Roadlite:ON AL 8.0,2899.0,3299.0,L,Stealth,50014004_0001061364,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-al-8.0/50014004.html,€,False,True,2022-01-14 05:00:15.910219
+Grail CF SL 7 Race CSR,3449.0,3499.0,S,Race Pink,50029778_0001061124,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-7-race-csr/50029778.html,€,False,True,2022-01-14 05:00:15.910219
+Precede:ON CF 9,4499.0,4999.0,M,Anchor Grey,50019431_0001061346,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50019431.html,€,False,True,2022-01-14 05:00:15.910219
+Pathlite:ON 9,4899.0,4999.0,S,Tundra Green,50029712_0001060542,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9/50029712.html,€,False,True,2022-01-14 05:00:15.910219
+Aeroad CF SLX 9.0 Team Movistar,5099.0,6599.0,M,Movistar Blue,50014276_0001060683,https://www.canyon.com/fr-be/promo-velos/professionnels/aeroad-cf-slx-9.0-team-movistar/50014276.html,€,False,True,2022-01-14 05:00:15.910219
+Ultimate CF SLX 8 Disc LTD II,6199.0,6499.0,S,Torben Giehler,50029671_0001060361,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cf-slx-8-disc-ltd-ii/50029671.html,€,False,True,2022-01-14 05:00:15.910219
+Speedmax CF 8.0,2699.0,3199.0,XL,Stealth,50013997_0001061350,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8.0/50013997.html,€,False,True,2022-01-14 05:00:15.910219
+Pathlite 5,949.0,999.0,2XL,Forest Green,50024531_0001061328,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-5/50024531.html,€,False,True,2022-01-15 05:00:15.016377
+Commuter 7 WMN,1649.0,1699.0,XS,Champagne,50019853_0001061367,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50019853.html,€,False,True,2022-01-15 05:00:15.016377
+Roadlite CF 8,1899.0,1999.0,L,Light Grey - Mint,50022841_0001061425,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8/50022841.html,€,False,True,2022-01-15 05:00:15.016377
+Roadlite CF 8,1949.0,1999.0,S,Light Grey - Mint,50023018_0001061396,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8/50023018.html,€,False,True,2022-01-15 05:00:15.016377
+Roadlite:ON 6,2749.0,2799.0,XL,Shadow Grey,50024757_0001061426,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50024757.html,€,False,True,2022-01-15 05:00:15.016377
+Neuron CF 8,2849.0,2999.0,L,Rush Grey,50029955_0001061466,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-8/50029955.html,€,False,True,2022-01-15 05:00:15.016377
+Roadlite:ON 6,2849.0,2899.0,M,Glacier Blue,50029916_0001061349,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50029916.html,€,False,True,2022-01-15 05:00:15.016377
+Grizl CF SL 8,2949.0,2999.0,M,Earl Grey,50025909_0001061462,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8/50025909.html,€,False,True,2022-01-15 05:00:15.016377
+Commuter:ON 7 WMN,3049.0,3299.0,M,Cherry,50024662_0001061322,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50024662.html,€,False,True,2022-01-15 05:00:15.016377
+Grizl CF SL 8 Suspension,3049.0,3199.0,L,Earl Grey,50029777_0001061424,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8-suspension/50029777.html,€,False,True,2022-01-15 05:00:15.016377
+Commuter:ON 7 WMN,3049.0,3299.0,XS,Cherry,50019849_0001061173,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50019849.html,€,False,True,2022-01-15 05:00:15.016377
+Grizl CF SL 8 Suspension,3149.0,3199.0,M,Matcha Splash,50029887_0001061458,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8-suspension/50029887.html,€,False,True,2022-01-15 05:00:15.016377
+Roadlite:ON 7,3249.0,3399.0,XS,Light Grey,50025900_0001061294,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50025900.html,€,False,True,2022-01-15 05:00:15.016377
+Pathlite:ON 7,3249.0,3399.0,S,Stealth,50023726_0001061432,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50023726.html,€,False,True,2022-01-15 05:00:15.016377
+Grail CF SL 7 eTap,3349.0,3499.0,M,Forest,50029918_0001061363,https://www.canyon.com/fr-be/promo-velos/vtt/grail-cf-sl-7-etap/50029918.html,€,False,True,2022-01-15 05:00:15.016377
+Grizl CF SL 8 Suspension,3449.0,3499.0,2XL,Matcha Splash,50029896_0001061297,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8-suspension/50029896.html,€,False,True,2022-01-15 05:00:15.016377
+Spectral 29 CF 7,3449.0,3499.0,XL,Big Bamboo,50029793_0001060855,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-7/50029793.html,€,False,True,2022-01-15 05:00:15.016377
+Neuron:ON 7,3549.0,3699.0,S,Flash Black,50026490_0001061369,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-7/50026490.html,€,False,True,2022-01-15 05:00:15.016377
+Torque 27.5 CF 7,3649.0,3699.0,L,Exhaust Black,50029942_0001061408,https://www.canyon.com/fr-be/promo-velos/vtt/torque-27.5-cf-7/50029942.html,€,False,True,2022-01-15 05:00:15.016377
+Grail CF SL 8 eTap,3799.0,4199.0,L,Discovery Blue,50018780_0001060919,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-etap/50018780.html,€,False,True,2022-01-15 05:00:15.016377
+Neuron:ON 8 WMN,3849.0,3999.0,S,E-Grey,50023094_0001061280,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-8-wmn/50023094.html,€,False,True,2022-01-15 05:00:15.016377
+Neuron:ON 8 WMN,3849.0,3999.0,XS,E-Grey,50024773_0001061300,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-8-wmn/50024773.html,€,False,True,2022-01-15 05:00:15.016377
+Grizl CF SLX 8 1by,4349.0,4599.0,S,Kale Smash,50024754_0001061475,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-1by/50024754.html,€,False,True,2022-01-15 05:00:15.016377
+Grail CF SLX 8 Di2,4599.0,4999.0,S,Dark Navy,50019631_0001061478,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-slx-8-di2/50019631.html,€,False,True,2022-01-15 05:00:15.016377
+Spectral:ON CF 6 WMN,4599.0,4699.0,S,Shades of Berry,50023769_0001061276,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-6-wmn/50023769.html,€,False,True,2022-01-15 05:00:15.016377
+Exceed CF SLX 8,4899.0,4999.0,M,Team Alpecin-Fenix,50029923_0001060918,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-slx-8/50029923.html,€,False,True,2022-01-15 05:00:15.016377
+Grail CF SLX 8 Di2,4949.0,4999.0,M,Dark Navy,50010855,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-slx-8-di2/2721.html?dwvar_2721_pv_rahmenfarbe=BU%2FBK,€,False,True,2022-01-15 05:00:15.016377
+Spectral 29 CF 9,5049.0,5199.0,XL,Thermite Red,50019818_0001060911,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50019818.html,€,False,True,2022-01-15 05:00:15.016377
+Aeroad CF SLX 9.0 Team Movistar,5099.0,6599.0,XS,Movistar Blue,50014274_0001057675,https://www.canyon.com/fr-be/promo-velos/professionnels/aeroad-cf-slx-9.0-team-movistar/50014274.html,€,False,True,2022-01-15 05:00:15.016377
+Aeroad CF SLX 9.0 Team Katusha,5199.0,7399.0,L,team replica - katusha,50008748_0001039760,https://www.canyon.com/fr-be/promo-velos/professionnels/aeroad-cf-slx-9.0-team-katusha/50008748.html,€,False,True,2022-01-15 05:00:15.016377
+Ultimate CF SLX 8 Disc eTap,5299.0,5399.0,L,Tarn Blue,50029931_0001061419,https://www.canyon.com/fr-be/promo-velos/vtt/ultimate-cf-slx-8-disc-etap/50029931.html,€,False,True,2022-01-15 05:00:15.016377
+Ultimate CF SLX 9.0 Team Movistar,5799.0,7299.0,S,Movistar Blue,50014270_0001057672,https://www.canyon.com/fr-be/promo-velos/professionnels/ultimate-cf-slx-9.0-team-movistar/50014270.html,€,False,True,2022-01-15 05:00:15.016377
+Spectral 29 CFR,6399.0,6499.0,L,Ag 47,50029798_0001061371,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cfr/50029798.html,€,False,True,2022-01-15 05:00:15.016377
+Ultimate Disc Young Hero,1119.0,1199.0,XS,Alpecin Fenix Blue,50029919_0001061433,https://www.canyon.com/fr-be/promo-velos/vtt/ultimate-disc-young-hero/50029919.html,€,False,True,2022-01-15 05:00:15.016377
+Exceed CF SLX 9,4599.0,4699.0,L,New Stealth,50029676_0001061403,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-slx-9/50029676.html,€,False,True,2022-01-16 05:00:15.837104
+Lux Trail CF 8,4949.0,5299.0,M,Columbia Blue,50029607_0001061503,https://www.canyon.com/fr-be/promo-velos/vtt/lux-trail-cf-8/50029607.html,€,False,True,2022-01-16 05:00:15.837104
+Commuter:ON 7 WMN,3149.0,3299.0,M,Champagne,50023475_0001060271,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023475.html,€,False,True,2022-01-17 05:00:11.032918
+Commuter 7 WMN,1749.0,1799.0,XS,Champagne,50019853_0001061367,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50019853.html,€,False,True,2022-01-18 05:00:08.317096
+Commuter:ON 7 WMN,3199.0,3299.0,M,Champagne,50023475_0001060671,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023475.html,€,False,True,2022-01-19 05:00:08.873284
+Roadlite:ON 7,3249.0,3399.0,M,Light Grey,50023722_0001061295,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,True,2022-01-19 05:00:08.873284
+Sender CFR FMD,3999.0,4699.0,M,Stealth,50019534_0001060920,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr-fmd/50019534.html,€,False,True,2022-01-19 05:00:08.873284
+Neuron CF SLX 9,5199.0,5599.0,M,Visible Black,50019377_0001060725,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-slx-9/50019377.html,€,False,True,2022-01-19 05:00:08.873284
+Roadlite 5 WMN,799.0,899.0,XS,Light Grey - Raspberry,50023030_0001060596,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-5-wmn/50023030.html,€,False,True,2022-01-21 05:00:15.567558
+Roadlite 5 WMN,829.0,899.0,M,Wild Rose,50029943_0001061405,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-5-wmn/50029943.html,€,False,True,2022-01-21 05:00:15.567558
+Stoic 2,849.0,899.0,XL,Avalanche White,50026487_0001061368,https://www.canyon.com/fr-be/promo-velos/vtt/stoic-2/50026487.html,€,False,True,2022-01-21 05:00:15.567558
+Commuter 5 WMN,1019.0,1099.0,S,Mustard,50023327_0001061504,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5-wmn/50023327.html,€,False,True,2022-01-21 05:00:15.567558
+Commuter 6 WMN,1419.0,1499.0,S,Mustard,50022228_0001061642,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022228.html,€,False,True,2022-01-21 05:00:15.567558
+Commuter 6 WMN,1419.0,1499.0,M,Anchor Grey,50022061_0001061394,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022061.html,€,False,True,2022-01-21 05:00:15.567558
+Commuter 6 WMN,1419.0,1499.0,S,Anchor Grey,50022229_0001061392,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022229.html,€,False,True,2022-01-21 05:00:15.567558
+Roadlite CF 8 WMN,1749.0,1799.0,XS,Light Grey,50019649_0001061516,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8-wmn/50019649.html,€,False,True,2022-01-21 05:00:15.567558
+Commuter 7 WMN,1749.0,1799.0,M,Champagne,50022925_0001061601,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50022925.html,€,False,True,2022-01-21 05:00:15.567558
+Grail 7 eTap,2149.0,2199.0,M,Forest,50029962_0001061494,https://www.canyon.com/fr-be/promo-velos/gravel/grail-7-etap/50029962.html,€,False,True,2022-01-21 05:00:15.567558
+Exceed CF 6,2349.0,2399.0,M,MTB Racing Team Replica,50029745_0001061372,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-6/50029745.html,€,False,True,2022-01-21 05:00:15.567558
+Exceed CF 7,2449.0,2799.0,L,Rapid Red,50025907_0001061560,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50025907.html,€,False,True,2022-01-21 05:00:15.567558
+Endurace:ON 7.0,2649.0,2999.0,L,Asphalt Black,50014634_0001061518,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50014634.html,€,False,True,2022-01-21 05:00:15.567558
+Grand Canyon:ON 8 WMN,2949.0,3099.0,S,Charged Mint,50023585_0001061558,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-8-wmn/50023585.html,€,False,True,2022-01-21 05:00:15.567558
+Commuter:ON 7,3149.0,3299.0,L,Champagne,50024790_0001060959,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50024790.html,€,False,True,2022-01-21 05:00:15.567558
+Spectral CF 7 WMN,3199.0,3399.0,XS,Soft Coral,50029915_0001061418,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-cf-7-wmn/50029915.html,€,False,True,2022-01-21 05:00:15.567558
+Grand Canyon:ON 8,3249.0,3299.0,M,N-Blue,50024772_0001061421,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-8/50024772.html,€,False,True,2022-01-21 05:00:15.567558
+Grail CF SL 7 eTap,3349.0,3499.0,M,Forest,50029918_0001061607,https://www.canyon.com/fr-be/promo-velos/vtt/grail-cf-sl-7-etap/50029918.html,€,False,True,2022-01-21 05:00:15.567558
+Roadlite CF 9 LTD,3449.0,3499.0,S,Shadow Grey,50019571_0001061499,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-9-ltd/50019571.html,€,False,True,2022-01-21 05:00:15.567558
+Grail CF SL 8 Di2,3499.0,3699.0,M,Discovery Blue,50019109_0001061612,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-di2/50019109.html,€,False,True,2022-01-21 05:00:15.567558
+Grail CF SL 8 eTap,3799.0,4199.0,2XS,Discovery Blue,50029621_0001061605,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-etap/50029621.html,€,False,True,2022-01-21 05:00:15.567558
+Grail CF SL 8 eTap,3899.0,4199.0,L,Discovery Blue,50018780_0001061611,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-etap/50018780.html,€,False,True,2022-01-21 05:00:15.567558
+Precede:ON CF 8,3899.0,4299.0,M,Anchor Grey,50019447_0001059670,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8/50019447.html,€,False,True,2022-01-21 05:00:15.567558
+Inflite CF SLX 9,3999.0,4199.0,L,Super Pink,50024575_0001061398,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-slx-9/50024575.html,€,False,True,2022-01-21 05:00:15.567558
+Grail CF SL 8 Di2,4099.0,4199.0,XS,Sand,50029924_0001061374,https://www.canyon.com/fr-be/promo-velos/vtt/grail-cf-sl-8-di2/50029924.html,€,False,True,2022-01-21 05:00:15.567558
+Strive CF 8,4099.0,4199.0,L,Stealth,50022099_0001061404,https://www.canyon.com/fr-be/promo-velos/vtt/strive-cf-8/50022099.html,€,False,True,2022-01-21 05:00:15.567558
+Speedmax CF 8 WMN DISC,4099.0,4199.0,S,Light Lobster,50024637_0001061502,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-wmn-disc/50024637.html,€,False,True,2022-01-21 05:00:15.567558
+Grail CF SL 8 Di2,4099.0,4199.0,2XL,Forest,50029934_0001061417,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-di2/50029934.html,€,False,True,2022-01-21 05:00:15.567558
+Torque:ON 8,4449.0,4799.0,L,Shades of the Forest,50023039_0001061334,https://www.canyon.com/fr-be/promo-velos/electriques/torque-on-8/50023039.html,€,False,True,2022-01-21 05:00:15.567558
+Grizl CF SLX 8 Di2,4599.0,4699.0,XS,Kale Smash,50026492_0001061441,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-di2/50026492.html,€,False,True,2022-01-21 05:00:15.567558
+Speedmax CF 7 Disc eTap,4899.0,4999.0,S,Stealth,50029795_0001061539,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029795.html,€,False,True,2022-01-21 05:00:15.567558
+Speedmax CF 7 Disc eTap,4899.0,4999.0,XS,Stealth,50029951_0001061460,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029951.html,€,False,True,2022-01-21 05:00:15.567558
+Grail CF SLX 8 eTap,4999.0,5099.0,L,Forest Orange,50010849,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-slx-8-etap/2720.html?dwvar_2720_pv_rahmenfarbe=OG%2FBK,€,False,True,2022-01-21 05:00:15.567558
+Lux Trail CF 8,5199.0,5299.0,S,Columbia Blue,50029938_0001061412,https://www.canyon.com/fr-be/promo-velos/vtt/lux-trail-cf-8/50029938.html,€,False,True,2022-01-21 05:00:15.567558
+Speedmax CF 8 WMN Disc Di2,5549.0,5799.0,XS,Light Lobster,50029759_0001061566,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-wmn-disc-di2/50029759.html,€,False,True,2022-01-21 05:00:15.567558
+Speedmax CF SLX 9.0 SL,6999.0,8899.0,multi,pearl city black,50001309,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/2144.html?dwvar_2144_pv_rahmenfarbe=BK%2FBU,€,False,True,2022-01-21 05:00:15.567558
+Endurace CF SLX 9 Disc eTap,7549.0,7699.0,M,Stealth,50029960_0001061485,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-disc-etap/50029960.html,€,False,True,2022-01-21 05:00:15.567558
+Roadlite 6 WMN,1119.0,1199.0,S,Shadow Grey,50022958_0001061666,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-6-wmn/50022958.html,€,False,True,2022-01-22 05:00:32.339469
+Ultimate Disc Young Hero,1149.0,1199.0,XS,Alpecin Fenix Blue,50029919_0001061713,https://www.canyon.com/fr-be/promo-velos/vtt/ultimate-disc-young-hero/50029919.html,€,False,True,2022-01-22 05:00:32.339469
+Stitched 720,1649.0,1799.0,M,Cloud Blue,50019459_0001061609,https://www.canyon.com/fr-be/promo-velos/vtt/stitched-720/50019459.html,€,False,True,2022-01-22 05:00:32.339469
+Grizl CF SL 8,2749.0,2999.0,XL,Matcha Splash,50024705_0001061554,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8/50024705.html,€,False,True,2022-01-22 05:00:32.339469
+Neuron CF 8 WMN,2949.0,2999.0,S,Frozen Valentine,50029803_0001061644,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-8-wmn/50029803.html,€,False,True,2022-01-22 05:00:32.339469
+Roadlite:ON 7,2999.0,3399.0,M,Light Grey,50023722_0001061639,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,True,2022-01-22 05:00:32.339469
+Neuron:ON 7 WMN,3549.0,3699.0,M,Quantum Grey,50029660_0001061633,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-7-wmn/50029660.html,€,False,True,2022-01-22 05:00:32.339469
+Speedmax CF 7 DISC,3649.0,3699.0,M,Flash Yellow,50019745_0001061634,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc/50019745.html,€,False,True,2022-01-22 05:00:32.339469
+Neuron CF 9,3799.0,3999.0,M,Non Forest,50029999_0001061636,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9/50029999.html,€,False,True,2022-01-22 05:00:32.339469
+Sender CFR FMD,4099.0,4699.0,M,X-Ray,50019834_0001061628,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr-fmd/50019834.html,€,False,True,2022-01-22 05:00:32.339469
+Inflite CF SLX 9.0 Team,4149.0,4499.0,M,Team Replica,50013564_0001061708,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-slx-9.0-team/50013564.html,€,False,True,2022-01-22 05:00:32.339469
+Grizl CF SLX 8 1by,4249.0,4599.0,S,Kale Smash,50024754_0001061646,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-1by/50024754.html,€,False,True,2022-01-22 05:00:32.339469
+Spectral:ON CF 6,4349.0,4699.0,XL,Shades of Stealth,50024572_0001061672,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-6/50024572.html,€,False,True,2022-01-22 05:00:32.339469
+Grizl CF SLX 8 Di2,4449.0,4699.0,L,Kale Smash,50024784_0001061550,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-di2/50024784.html,€,False,True,2022-01-22 05:00:32.339469
+Neuron CF 9 SL,4699.0,4799.0,S,Non Forest,50030001_0001061645,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9-sl/50030001.html,€,False,True,2022-01-22 05:00:32.339469
+Speedmax CF 7 Disc eTap,4899.0,4999.0,L,Off White,50029681_0001061545,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029681.html,€,False,True,2022-01-22 05:00:32.339469
+Sender CFR,4999.0,5799.0,M,CFR Team,50019418_0001061631,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019418.html,€,False,True,2022-01-22 05:00:32.339469
+Lux Trail CF 8,5049.0,5299.0,M,Columbia Blue,50029607_0001061610,https://www.canyon.com/fr-be/promo-velos/vtt/lux-trail-cf-8/50029607.html,€,False,True,2022-01-22 05:00:32.339469
+Spectral:ON CF 8,5749.0,5999.0,M,Shades of Sea,50023330_0001061667,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-8/50023330.html,€,False,True,2022-01-22 05:00:32.339469
+Grand Canyon 6 WMN,919.0,999.0,S,Soft Coral,50018542_0001061168,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-6-wmn/50018542.html,€,False,True,2022-01-23 05:00:20.638587
+Grizl CF SL 7 eTap,3249.0,3299.0,M,Earl Grey,50029729_0001061076,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-7-etap/50029729.html,€,False,True,2022-01-23 05:00:20.638587
+Roadlite:ON 7,3249.0,3399.0,L,Light Grey,50023804_0001061556,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023804.html,€,False,True,2022-01-23 05:00:20.638587
+Speedmax CF 8 Disc,4099.0,4199.0,M,Flash Yellow,50029983_0001061620,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc/50029983.html,€,False,True,2022-01-23 05:00:20.638587
+Grail:ON CF 8 eTap,5699.0,6199.0,XL,Discovery Blue,50029628_0001059973,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-8-etap/50029628.html,€,False,True,2022-01-23 05:00:20.638587
+Roadlite:ON 6,2749.0,2799.0,XL,Shadow Grey,50024757_0001061430,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50024757.html,€,False,True,2022-01-24 05:00:26.771967
+Commuter 6 WMN,1419.0,1499.0,S,Anchor Grey,50022229_0001061508,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022229.html,€,False,True,2022-01-25 05:00:15.732022
+Exceed CF 5,1699.0,1799.0,XL,Quick Silver,50019554_0001061293,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/50019554.html,€,False,True,2022-01-25 05:00:15.732022
+Grail CF SL 8 Di2,3649.0,3699.0,S,Discovery Blue,50010819,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-di2/2718.html?dwvar_2718_pv_rahmenfarbe=BU%2FBK,€,False,True,2022-01-25 05:00:15.732022
+Endurace CF SL Disc 8.0 RCC,3999.0,4199.0,L,Stealth,50006682,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-disc-8.0-rcc/2485.html?dwvar_2485_pv_rahmenfarbe=BK,€,False,True,2022-01-25 05:00:15.732022
+Speedmax CF 8 DISC Di2,5659.0,5799.0,XL,Non Mint,50024807_0001059761,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-di2/50024807.html,€,False,True,2022-01-25 05:00:15.732022
+Lux CF SLX 9 LTD,6599.0,6999.0,M,Eclipse White,50019712_0001061509,https://www.canyon.com/fr-be/promo-velos/vtt/lux-cf-slx-9-ltd/50019712.html,€,False,True,2022-01-25 05:00:15.732022
+Commuter 8.0,2199.0,2399.0,M,grey,50013548_0001060686,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8.0/50013548.html,€,False,True,2022-01-27 05:00:37.080173
+Speedmax CF 8 DISC Di2,5599.0,5799.0,XL,Non Mint,50024807_0001059761,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-di2/50024807.html,€,False,True,2022-01-27 05:00:37.080173
+Roadlite 5,829.0,899.0,XS,Light Grey - Mint,50018787_0001061514,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-5/50018787.html,€,False,True,2022-01-28 05:00:22.962198
+Roadlite 5 WMN,829.0,899.0,L,Light Grey - Raspberry,50022200_0001061724,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-5-wmn/50022200.html,€,False,True,2022-01-28 05:00:22.962198
+Endurace 6,949.0,999.0,M,Stealth,50014928,https://www.canyon.com/fr-be/promo-velos/route/endurace-6/2941.html?dwvar_2941_pv_rahmenfarbe=BU%2FBU,€,False,True,2022-01-28 05:00:22.962198
+Commuter 5,1019.0,1099.0,M,Anchor Grey,50023473_0001061787,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5/50023473.html,€,False,True,2022-01-28 05:00:22.962198
+Endurace AL 7.0,1069.0,1199.0,XL,race red,50014309_0001061705,https://www.canyon.com/fr-be/promo-velos/route/endurace-al-7.0/50014309.html,€,False,True,2022-01-28 05:00:22.962198
+Endurace 6 Disc,1249.0,1299.0,M,airwave blue,50014971,https://www.canyon.com/fr-be/promo-velos/route/endurace-6-disc/2945.html?dwvar_2945_pv_rahmenfarbe=BU%2FBK,€,False,True,2022-01-28 05:00:22.962198
+Commuter 7,1749.0,1799.0,M,Anchor Grey,50022076_0001061844,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7/50022076.html,€,False,True,2022-01-28 05:00:22.962198
+Grail 7 WMN,1749.0,1899.0,M,Rosewood Red,50019107_0001061782,https://www.canyon.com/fr-be/promo-velos/gravel/grail-7-wmn/50019107.html,€,False,True,2022-01-28 05:00:22.962198
+Grail 7 1by,1749.0,1799.0,M,Solid Silver,50010792,https://www.canyon.com/fr-be/promo-velos/gravel/grail-7-1by/2707.html?dwvar_2707_pv_rahmenfarbe=SR%2FBK,€,False,True,2022-01-28 05:00:22.962198
+Roadlite CF 8,1949.0,1999.0,2XL,Light Grey - Mint,50030004_0001061681,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8/50030004.html,€,False,True,2022-01-28 05:00:22.962198
+Roadlite CF 8,1949.0,1999.0,M,Light Grey - Mint,50023451_0001061811,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8/50023451.html,€,False,True,2022-01-28 05:00:22.962198
+Pathlite:ON 4,2449.0,2499.0,XS,Tundra Green,50029773_0001061384,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-4/50029773.html,€,False,True,2022-01-28 05:00:22.962198
+Grand Canyon:ON 7,2749.0,2899.0,L,Positive Red,50025927_0001061745,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-7/50025927.html,€,False,True,2022-01-28 05:00:22.962198
+Grail CF SL 8,2849.0,2999.0,XL,Forest,50029998_0001061679,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8/50029998.html,€,False,True,2022-01-28 05:00:22.962198
+Grizl CF SL 8,2849.0,2999.0,XS,Matcha Splash,50024724_0001061726,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8/50024724.html,€,False,True,2022-01-28 05:00:22.962198
+Pathlite:ON 6,2949.0,2999.0,L,Tundra Green,50019514_0001061488,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-6/50019514.html,€,False,True,2022-01-28 05:00:22.962198
+Grand Canyon:ON 8 WMN,2949.0,3099.0,S,Charged Mint,50023585_0001061563,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-8-wmn/50023585.html,€,False,True,2022-01-28 05:00:22.962198
+Pathlite:ON 6,2949.0,2999.0,M,Tundra Green,50019652_0001061347,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-6/50019652.html,€,False,True,2022-01-28 05:00:22.962198
+Neuron CF 8 WMN,2949.0,2999.0,S,Frozen Valentine,50029803_0001061714,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-8-wmn/50029803.html,€,False,True,2022-01-28 05:00:22.962198
+Grizl CF SL 8 Suspension,3049.0,3199.0,M,Matcha Splash,50029887_0001061828,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8-suspension/50029887.html,€,False,True,2022-01-28 05:00:22.962198
+Grizl CF SL 8 Suspension,3149.0,3199.0,L,Matcha Splash,50029969_0001061816,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8-suspension/50029969.html,€,False,True,2022-01-28 05:00:22.962198
+Grizl CF SL 7 eTap,3149.0,3299.0,M,Wildberry Splatter,50029816_0001061815,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-7-etap/50029816.html,€,False,True,2022-01-28 05:00:22.962198
+Grizl CF SL 7 eTap,3249.0,3299.0,XS,Earl Grey,50030013_0001061742,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-7-etap/50030013.html,€,False,True,2022-01-28 05:00:22.962198
+Grand Canyon:ON 8,3249.0,3299.0,L,Positive Red,50023697_0001061437,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-8/50023697.html,€,False,True,2022-01-28 05:00:22.962198
+Pathlite:ON 7,3249.0,3399.0,M,Stealth,50019482_0001061422,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50019482.html,€,False,True,2022-01-28 05:00:22.962198
+Exceed CF SLX 8,3549.0,3699.0,M,Team Alpecin-Fenix,50029923_0001061729,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-slx-8/50029923.html,€,False,True,2022-01-28 05:00:22.962198
+Endurace CF SL Disc 8.0 RCH,3549.0,4199.0,2XS,Stealth,50029601_0001061551,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-disc-8.0-rch/50029601.html,€,False,True,2022-01-28 05:00:22.962198
+Neuron:ON 7 WMN,3549.0,3699.0,XS,Quantum Grey,50026499_0001061543,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-7-wmn/50026499.html,€,False,True,2022-01-28 05:00:22.962198
+Endurace CF SL 8 Disc Di2,3549.0,3599.0,multi,Stealth Grey,50015029,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-disc-di2/2949.html?dwvar_2949_pv_rahmenfarbe=YE%2FBK,€,False,True,2022-01-28 05:00:22.962198
+Torque CF 7,3599.0,3699.0,L,Stealth,50019480_0001061663,https://www.canyon.com/fr-be/promo-velos/vtt/torque-cf-7/50019480.html,€,False,True,2022-01-28 05:00:22.962198
+Torque 27.5 CF 7,3649.0,3699.0,M,Exhaust Black,50029984_0001061619,https://www.canyon.com/fr-be/promo-velos/vtt/torque-27.5-cf-7/50029984.html,€,False,True,2022-01-28 05:00:22.962198
+Torque 29 CF 7,3649.0,3699.0,XL,Kurkuma Kingdom,50029949_0001061459,https://www.canyon.com/fr-be/promo-velos/vtt/torque-29-cf-7/50029949.html,€,False,True,2022-01-28 05:00:22.962198
+Ultimate CF SLX 9.0 Pro,3649.0,4799.0,L,black,165107_0001044522,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cf-slx-9.0-pro/165107.html,€,False,True,2022-01-28 05:00:22.962198
+Grail CF SL 8 eTap,3799.0,4199.0,XS,Discovery Blue,50030002_0001061682,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-etap/50030002.html,€,False,True,2022-01-28 05:00:22.962198
+Grail CF SL 8 eTap,3899.0,4199.0,XL,Discovery Blue,50019008_0001061671,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-etap/50019008.html,€,False,True,2022-01-28 05:00:22.962198
+Neuron:ON 8 WMN,3949.0,3999.0,XS,E-Grey,50024773_0001061769,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-8-wmn/50024773.html,€,False,True,2022-01-28 05:00:22.962198
+Neuron CF 9,3949.0,3999.0,L,Non Forest,50029922_0001061379,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9/50029922.html,€,False,True,2022-01-28 05:00:22.962198
+Speedmax CF 8 DISC,4099.0,4199.0,L,Flash Yellow,50024738_0001061738,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc/50024738.html,€,False,True,2022-01-28 05:00:22.962198
+Spectral 27.5 CF 8,4249.0,4399.0,L,Exhaust Black,50029895_0001061296,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-27.5-cf-8/50029895.html,€,False,True,2022-01-28 05:00:22.962198
+Endurace CF SL 8 Disc AERO,4449.0,4499.0,2XS,Off Navy,50015038,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-disc-aero/2950.html?dwvar_2950_pv_rahmenfarbe=BU%2FBK,€,False,True,2022-01-28 05:00:22.962198
+Exceed CF SLX 9,4599.0,4699.0,L,New Stealth,50029676_0001061638,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-slx-9/50029676.html,€,False,True,2022-01-28 05:00:22.962198
+Grail CF SLX 8 eTap,4649.0,5099.0,M,Dark Navy,50019190_0001061736,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-slx-8-etap/50019190.html,€,False,True,2022-01-28 05:00:22.962198
+Grizl CF SLX 8 eTap Suspension,4749.0,4999.0,M,Kale Smash,50029917_0001061675,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-etap-suspension/50029917.html,€,False,True,2022-01-28 05:00:22.962198
+Spectral 29 CF 9,4799.0,5199.0,XL,Exhaust Black,50023463_0001061333,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50023463.html,€,False,True,2022-01-28 05:00:22.962198
+Spectral 29 CF 9,4799.0,5199.0,L,Thermite Red,50019636_0001061389,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50019636.html,€,False,True,2022-01-28 05:00:22.962198
+Spectral 29 CF 9,4899.0,5199.0,M,Thermite Red,50019635_0001061767,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50019635.html,€,False,True,2022-01-28 05:00:22.962198
+Speedmax CF 7 Disc eTap,4899.0,4999.0,S,Off White,50029695_0001061739,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029695.html,€,False,True,2022-01-28 05:00:22.962198
+Sender CFR,4999.0,5799.0,M,CFR Team,50019418_0001061733,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019418.html,€,False,True,2022-01-28 05:00:22.962198
+Sender CFR,5199.0,5799.0,L,Stealth,50019124_0001061790,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019124.html,€,False,True,2022-01-28 05:00:22.962198
+Sender CFR,5349.0,5799.0,S,Stealth,50019225_0001061772,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019225.html,€,False,True,2022-01-28 05:00:22.962198
+Grail:ON CF 8 eTap,5549.0,6199.0,M,Discovery Blue,50018782_0001061827,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-8-etap/50018782.html,€,False,True,2022-01-28 05:00:22.962198
+Exceed CFR Team,5549.0,5799.0,M,Team Alpecin-Fenix,50030016_0001061722,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cfr-team/50030016.html,€,False,True,2022-01-28 05:00:22.962198
+Spectral 29 CFR,6399.0,6499.0,L,Ag 47,50029798_0001061677,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cfr/50029798.html,€,False,True,2022-01-28 05:00:22.962198
+Endurace CF SLX 9 Disc Di2,7049.0,7299.0,XS,Red Tinted,50029927_0001061399,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-disc-di2/50029927.html,€,False,True,2022-01-28 05:00:22.962198
+Spectral:ON CF 9,7099.0,7599.0,S,Shades of Shades,50022062_0001061632,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-9/50022062.html,€,False,True,2022-01-28 05:00:22.962198
+Ultimate CFR Disc eTap,8349.0,8499.0,M,Rainbow Reflectiv,50029974_0001061626,https://www.canyon.com/fr-be/promo-velos/vtt/ultimate-cfr-disc-etap/50029974.html,€,False,True,2022-01-28 05:00:22.962198
+Grizl CF SL Frameset,1749.0,1799.0,M,Earl Grey,50029961_0001061501,https://www.canyon.com/fr-be/promo-velos/vtt/grizl-cf-sl-frameset/50029961.html,€,False,True,2022-01-28 05:00:22.962198
+Grand Canyon 7,1169.0,1249.0,M,Spark Blue,50019388_0001061665,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-7/50019388.html,€,False,True,2022-01-29 05:00:27.713387
+Grizl 7 Suspension,1949.0,1999.0,L,Matcha,50030043_0001061834,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-7-suspension/50030043.html,€,False,True,2022-01-29 05:00:27.713387
+Commuter 8.0,2199.0,2399.0,M,grey,50013548_0001061538,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8.0/50013548.html,€,False,True,2022-01-29 05:00:27.713387
+Endurace:ON 7.0,2649.0,2999.0,M,Asphalt Black,50017964_0001061873,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50017964.html,€,False,True,2022-01-29 05:00:27.713387
+Endurace CF SL 8 Disc Di2,3549.0,3599.0,multi,Stealth Grey,50015023,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-disc-di2/2949.html?dwvar_2949_pv_rahmenfarbe=GY%2FBK,€,False,True,2022-01-29 05:00:27.713387
+Torque 29 CF 7,3649.0,3699.0,XL,Exhaust Black,50029963_0001061496,https://www.canyon.com/fr-be/promo-velos/vtt/torque-29-cf-7/50029963.html,€,False,True,2022-01-29 05:00:27.713387
+Spectral:ON CF 8.0,4699.0,5599.0,S,Shades of Stealth,50024529_0001061773,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-8.0/50024529.html,€,False,True,2022-01-29 05:00:27.713387
+Speedmax CF 8 DISC Di2,5599.0,5799.0,XL,Non Mint,50024807_0001059494,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-di2/50024807.html,€,False,True,2022-01-29 05:00:27.713387
+Ultimate CFR Disc EPS,8499.0,8999.0,L,Ultra Stealth,50030028_0001061768,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cfr-disc-eps/50030028.html,€,False,True,2022-01-29 05:00:27.713387
+Commuter 7 WMN,1699.0,1799.0,S,Champagne,50023049_0001061926,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50023049.html,€,False,True,2022-01-30 05:00:16.115934
+Commuter 7 WMN,1749.0,1799.0,M,Champagne,50022925_0001061711,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50022925.html,€,False,True,2022-01-30 05:00:16.115934
+Exceed CF 7,2849.0,2899.0,L,MTB Racing Team Replica,50030059_0001061936,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50030059.html,€,False,True,2022-01-30 05:00:16.115934
+Roadlite:ON AL 8.0,2899.0,3299.0,XS,Stealth,50014818_0001061084,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-al-8.0/50014818.html,€,False,True,2022-01-30 05:00:16.115934
+Spectral 29 CF 9,4599.0,5199.0,L,Thermite Red,50019636_0001061854,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50019636.html,€,False,True,2022-01-30 05:00:16.115934
+Endurace CF SLX 9 Disc eTap,7549.0,7699.0,L,Stealth,50029901_0001061938,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-disc-etap/50029901.html,€,False,True,2022-01-30 05:00:16.115934
+Grand Canyon:ON 7,2849.0,2899.0,L,Flash Black,50026578_0001061063,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-7/50026578.html,€,False,True,2022-01-31 05:00:33.312769
+Endurace CF SL 8 Disc Di2,3549.0,3599.0,multi,Stealth Grey,50015030,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-disc-di2/2949.html?dwvar_2949_pv_rahmenfarbe=YE%2FBK,€,False,True,2022-01-31 05:00:33.312769
+Endurace CF SL 8 Disc Di2,3549.0,3599.0,2XL,Stealth Grey,50015030,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-disc-di2/2949.html?dwvar_2949_pv_rahmenfarbe=YE%2FBK,€,False,True,2022-02-01 05:00:30.156428
+Speedmax CF 7 Disc,3649.0,3699.0,L,Flash Yellow,50009487,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc/2554.html?dwvar_2554_pv_rahmenfarbe=YE%2FBK,€,False,True,2022-02-01 05:00:30.156428
+Spectral 29 CF 9,4599.0,5199.0,L,Thermite Red,50019636_0001061865,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50019636.html,€,False,True,2022-02-01 05:00:30.156428
+Speedmax CF 8 Disc Di2,5699.0,5799.0,multi,Non Mint,50009507,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-di2/2556.html?dwvar_2556_pv_rahmenfarbe=TQ%2FBK,€,False,True,2022-02-01 05:00:30.156428
+Speedmax CF SLX 9.0 TT,8499.0,9499.0,M,half blue,50001317,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/2146.html?dwvar_2146_pv_rahmenfarbe=BK%2FBU,€,False,True,2022-02-01 05:00:30.156428
+Commuter 6 WMN,1319.0,1399.0,XS,Mustard,50023466_0001060218,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50023466.html,€,False,True,2022-02-02 05:00:24.430825
+Exceed CF 5,1649.0,1799.0,S,Rapid Red,50019290_0001059858,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/50019290.html,€,False,True,2022-02-02 05:00:24.430825
+Grizl CF SL 7 eTap,3149.0,3299.0,M,Wildberry Splatter,50029816_0001061832,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-7-etap/50029816.html,€,False,True,2022-02-02 05:00:24.430825
+Grail:ON CF 7 WMN,4599.0,4999.0,M,Rosewood Red,50025923_0001059849,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7-wmn/50025923.html,€,False,True,2022-02-02 05:00:24.430825
+Speedmax CF 8 Disc Di2,5699.0,5799.0,multi,Stealth,50009507,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-di2/2556.html?dwvar_2556_pv_rahmenfarbe=TQ%2FBK,€,False,True,2022-02-02 05:00:24.430825
+Endurace CF SL 8 Disc Di2,3549.0,3599.0,2XL,Stealth Grey,50015023,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-disc-di2/2949.html?dwvar_2949_pv_rahmenfarbe=GY%2FBK,€,False,True,2022-02-03 05:00:26.197226
+Torque 29 CF 7,4099.0,4199.0,XL,Kurkuma Kingdom,50029949_0001061459,https://www.canyon.com/fr-be/promo-velos/vtt/torque-29-cf-7/50029949.html,€,False,True,2022-02-03 05:00:26.197226
+Torque 29 CF 7,4099.0,4199.0,XL,Exhaust Black,50029963_0001061496,https://www.canyon.com/fr-be/promo-velos/vtt/torque-29-cf-7/50029963.html,€,False,True,2022-02-03 05:00:26.197226
+Spectral 27.5 CF 8,4299.0,4499.0,L,Exhaust Black,50029895_0001061817,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-27.5-cf-8/50029895.html,€,False,True,2022-02-03 05:00:26.197226
+Sender CFR,4899.0,5499.0,M,CFR Team,50019418_0001061733,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019418.html,€,False,True,2022-02-03 05:00:26.197226
+Sender CFR,4899.0,5499.0,L,CFR Team,50023755_0001060902,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50023755.html,€,False,True,2022-02-03 05:00:26.197226
+Sender CFR,4899.0,5499.0,S,CFR Team,50019363_0001060998,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019363.html,€,False,True,2022-02-03 05:00:26.197226
+Sender CFR,5099.0,5499.0,L,Stealth,50019124_0001061790,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019124.html,€,False,True,2022-02-03 05:00:26.197226
+Sender CFR,5099.0,5499.0,XL,CFR Team,50024589_0001061111,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50024589.html,€,False,True,2022-02-03 05:00:26.197226
+Grand Canyon 6,969.0,1049.0,XS,Stealth,50019523_0001061937,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-6/50019523.html,€,False,True,2022-02-04 05:00:29.708242
+Commuter 5,1019.0,1099.0,M,Anchor Grey,50023473_0001061999,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5/50023473.html,€,False,True,2022-02-04 05:00:29.708242
+Commuter 5,1049.0,1099.0,L,Anchor Grey,50022848_0001061978,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5/50022848.html,€,False,True,2022-02-04 05:00:29.708242
+Stitched 360,1049.0,1099.0,S,Shockwave Black,50030038_0001061838,https://www.canyon.com/fr-be/promo-velos/vtt/stitched-360/50030038.html,€,False,True,2022-02-04 05:00:29.708242
+Roadlite 6,1119.0,1199.0,XS,Light Grey,50019228_0001062016,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-6/50019228.html,€,False,True,2022-02-04 05:00:29.708242
+Pathlite 6 WMN,1149.0,1199.0,S,Light Grey,50019003_0001062018,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-6-wmn/50019003.html,€,False,True,2022-02-04 05:00:29.708242
+Grand Canyon 7,1169.0,1249.0,XL,Spark Blue,50023744_0001061855,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-7/50023744.html,€,False,True,2022-02-04 05:00:29.708242
+Commuter 6 WMN,1399.0,1499.0,M,Anchor Grey,50022061_0001061927,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022061.html,€,False,True,2022-02-04 05:00:29.708242
+Commuter 6 WMN,1419.0,1499.0,S,Anchor Grey,50022229_0001061779,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022229.html,€,False,True,2022-02-04 05:00:29.708242
+Commuter 7 WMN,1749.0,1799.0,M,Champagne,50022925_0001061929,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50022925.html,€,False,True,2022-02-04 05:00:29.708242
+Grail CF SL 7,2449.0,2499.0,XL,Sand,50030037_0001061843,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-7/50030037.html,€,False,True,2022-02-04 05:00:29.708242
+Endurace:ON 7.0,2549.0,2999.0,S,Asphalt Black,50017972_0001062022,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50017972.html,€,False,True,2022-02-04 05:00:29.708242
+Endurace:ON 7.0,2549.0,2999.0,M,Asphalt Black,50017964_0001062020,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50017964.html,€,False,True,2022-02-04 05:00:29.708242
+Endurace:ON 7.0,2549.0,2999.0,L,Asphalt Black,50014634_0001061975,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50014634.html,€,False,True,2022-02-04 05:00:29.708242
+Exceed CF 7,2749.0,2899.0,XL,Quick Silver,50030053_0001061933,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50030053.html,€,False,True,2022-02-04 05:00:29.708242
+Exceed CF 7,2849.0,2899.0,L,Quick Silver,50029907_0001061966,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50029907.html,€,False,True,2022-02-04 05:00:29.708242
+Roadlite:ON 7,3249.0,3399.0,S,Light Grey,50023763_0001061884,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023763.html,€,False,True,2022-02-04 05:00:29.708242
+Grail CF SL 7 eTap,3349.0,3499.0,M,Forest,50029918_0001061876,https://www.canyon.com/fr-be/promo-velos/vtt/grail-cf-sl-7-etap/50029918.html,€,False,True,2022-02-04 05:00:29.708242
+Endurace CF SL 8 WMN DISC Di2,3399.0,3599.0,M,Burgundy Tinted,50030031_0001061840,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-wmn-disc-di2/50030031.html,€,False,True,2022-02-04 05:00:29.708242
+Grail CF SL 7 eTap,3449.0,3499.0,L,Sand,50029993_0001062000,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-7-etap/50029993.html,€,False,True,2022-02-04 05:00:29.708242
+Neuron CF 9,3799.0,3999.0,L,Non Forest,50029922_0001061379,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9/50029922.html,€,False,True,2022-02-04 05:00:29.708242
+Strive CF 8,3949.0,4199.0,M,X-Ray,50024571_0001061668,https://www.canyon.com/fr-be/promo-velos/vtt/strive-cf-8/50024571.html,€,False,True,2022-02-04 05:00:29.708242
+Sender CFR FMD,4299.0,4699.0,M,X-Ray,50019834_0001061789,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr-fmd/50019834.html,€,False,True,2022-02-04 05:00:29.708242
+Spectral 29 CF 8,4299.0,4499.0,XL,Exhaust Black,50030052_0001061935,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-8/50030052.html,€,False,True,2022-02-04 05:00:29.708242
+Precede:ON CF 9,4349.0,4999.0,L,Champagne,50024629_0001060629,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024629.html,€,False,True,2022-02-04 05:00:29.708242
+Precede:ON CF 9,4349.0,4999.0,M,Champagne,50024771_0001061869,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024771.html,€,False,True,2022-02-04 05:00:29.708242
+Grail:ON CF 7 WMN,4599.0,4999.0,M,Rosewood Red,50025923_0001061830,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7-wmn/50025923.html,€,False,True,2022-02-04 05:00:29.708242
+Grail:ON CF 8,4799.0,5299.0,S,Discovery Blue,50023465_0001058935,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-8/50023465.html,€,False,True,2022-02-04 05:00:29.708242
+Pathlite:ON 9.0,4499.0,4999.0,L,Tundra Green,50019004_0001060639,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019004.html,€,False,True,2022-02-04 05:00:29.708242
+Aeroad CF SLX 9.0 Team Movistar,5599.0,7299.0,S,Movistar Blue,50023538_0001055330,https://www.canyon.com/fr-be/promo-velos/professionnels/aeroad-cf-slx-9.0-team-movistar/50023538.html,€,False,True,2022-02-04 05:00:29.708242
+Spectral 29 CF 9,5699.0,5799.0,L,Exhaust Black,50029781_0001061931,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50029781.html,€,False,True,2022-02-04 05:00:29.708242
+Speedmax CF 8 WMN Disc Di2,5699.0,5799.0,XS,Light Lobster,50029759_0001062003,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-wmn-disc-di2/50029759.html,€,False,True,2022-02-04 05:00:29.708242
+Speedmax CF 8 DISC eTap,6049.0,6499.0,S,Non Mint,50019499_0001061833,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-etap/50019499.html,€,False,True,2022-02-04 05:00:29.708242
+Speedmax CF 8 DISC eTap,6199.0,6499.0,L,Stealth,50024585_0001061857,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-etap/50024585.html,€,False,True,2022-02-04 05:00:29.708242
+Grail CF SLX 9 eTap,6399.0,6499.0,XL,Sand Fade,50030012_0001061985,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-slx-9-etap/50030012.html,€,False,True,2022-02-04 05:00:29.708242
+Exceed CFR LTD,6549.0,6699.0,XL,Eclipse Black,50030060_0001061981,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cfr-ltd/50030060.html,€,False,True,2022-02-04 05:00:29.708242
+Speedmax CF SLX 9.0 TT,8199.0,9499.0,M,half blue,50009233_0001061716,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/50009233.html,€,False,True,2022-02-04 05:00:29.708242
+Ultimate CFR Disc EPS,8749.0,8999.0,M,Ultra Stealth,50024657_0001061853,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cfr-disc-eps/50024657.html,€,False,True,2022-02-04 05:00:29.708242
+Speedmax CFR Disc eTap,11799.0,11999.0,M,Blue Chrome,50030032_0001061839,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cfr-disc-etap/50030032.html,€,False,True,2022-02-04 05:00:29.708242
+Endurace:ON 7.0,2699.0,2999.0,XL,Asphalt Black,50017940_0001060416,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50017940.html,€,False,True,2022-02-05 05:00:21.553520
+Neuron CF 9,3799.0,3999.0,L,Non Forest,50029922_0001061818,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9/50029922.html,€,False,True,2022-02-05 05:00:21.553520
+Speedmax CF 7 Disc eTap,4899.0,4999.0,S,Stealth,50029795_0001061735,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029795.html,€,False,True,2022-02-05 05:00:21.553520
+Sender CFR,5099.0,5499.0,XL,CFR Team,50024589_0001060861,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50024589.html,€,False,True,2022-02-05 05:00:21.553520
+Commuter 5 WMN,879.0,999.0,S,Mustard,50023327_0001058000,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5-wmn/50023327.html,€,False,True,2022-02-06 05:00:21.510187
+Torque CF 7,3299.0,3699.0,L,X-Ray,50019424_0001060553,https://www.canyon.com/fr-be/promo-velos/vtt/torque-cf-7/50019424.html,€,False,True,2022-02-06 05:00:21.510187
+Spectral:ON CF 6 WMN,4549.0,4699.0,S,Shades of Berry,50023769_0001060758,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-6-wmn/50023769.html,€,False,True,2022-02-06 05:00:21.510187
+Exceed CF 7,2749.0,2899.0,XL,Quick Silver,50030053_0001061976,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50030053.html,€,False,True,2022-02-07 05:00:30.285461
+Commuter 7 WMN,1699.0,1799.0,S,Champagne,50023049_0001062087,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50023049.html,€,False,True,2022-02-08 05:00:26.058987
+Endurace CF SL 8 WMN Disc,2749.0,2799.0,M,aquamarin,50015123,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-wmn-disc/2957.html?dwvar_2957_pv_rahmenfarbe=TQ,€,False,True,2022-02-08 05:00:26.058987
+Precede:ON CF 9 ST,4499.0,4999.0,L,Anchor Grey,50023456_0001059448,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023456.html,€,False,True,2022-02-08 05:00:26.058987
+Sender CFR,4899.0,5499.0,M,CFR Team,50019418_0001061791,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019418.html,€,False,True,2022-02-08 05:00:26.058987
+Inflite CF SL 7,2649.0,2799.0,M,Team Replica Alpecin-Fenix,50030041_0001061822,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-sl-7/50030041.html,€,False,True,2022-02-09 05:00:17.615257
+Grand Canyon:ON 9,3349.0,3599.0,L,N-Blue,50023321_0001062017,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-9/50023321.html,€,False,True,2022-02-09 05:00:17.615257
+Grail:ON CF 7 WMN,4449.0,4999.0,XS,Rosewood Red,50019275_0001061393,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7-wmn/50019275.html,€,False,True,2022-02-09 05:00:17.615257
+Speedmax CF SLX 9.0 TT,8199.0,9499.0,M,half blue,50009233_0001061821,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/50009233.html,€,False,True,2022-02-09 05:00:17.615257
+Speedmax CF SLX 9.0 LTD,7999.0,9899.0,S,pearl city black,50001310,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-ltd/2145.html?dwvar_2145_pv_rahmenfarbe=BK%2FGY,€,False,True,2022-02-10 05:00:15.005547
+Commuter 8.0,2199.0,2399.0,M,grey,50013548_0001060558,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8.0/50013548.html,€,False,True,2022-02-11 05:00:10.622765
+Inflite CF SLX 9.0 Team,4149.0,4499.0,M,Team Replica,50013564_0001061762,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-slx-9.0-team/50013564.html,€,False,True,2022-02-11 05:00:10.622765
+Speedmax CF SLX 9.0 TT,8199.0,9499.0,M,half blue,50009233_0001061819,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/50009233.html,€,False,True,2022-02-11 05:00:10.622765
+Speedmax CF SLX 9.0 TT,8499.0,9499.0,multi,half blue,50001318,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/2146.html?dwvar_2146_pv_rahmenfarbe=BK%2FBU,€,False,True,2022-02-11 05:00:10.622765
+Commuter 5 WMN,1029.0,1099.0,XS,Mustard,50024664_0001062143,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5-wmn/50024664.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter 6.0,1049.0,1699.0,XS,grey,50012251_0001062262,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6.0/50012251.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter 5 WMN,1049.0,1099.0,S,Mustard,50023327_0001062219,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5-wmn/50023327.html,€,False,True,2022-02-12 05:00:17.237975
+Roadlite 6,1119.0,1199.0,M,Light Grey,50019178_0001062218,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-6/50019178.html,€,False,True,2022-02-12 05:00:17.237975
+Pathlite 6 WMN,1119.0,1199.0,M,Light Grey,50022086_0001062144,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-6-wmn/50022086.html,€,False,True,2022-02-12 05:00:17.237975
+Grand Canyon 7,1169.0,1249.0,XL,Spark Blue,50023744_0001062142,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-7/50023744.html,€,False,True,2022-02-12 05:00:17.237975
+Grand Canyon 7,1199.0,1249.0,M,Spark Blue,50019388_0001062021,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-7/50019388.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter 6,1399.0,1499.0,L,Dark Navy,50022100_0001060894,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6/50022100.html,€,False,True,2022-02-12 05:00:17.237975
+Roadlite 7,1419.0,1499.0,L,Shadow Grey,50022914_0001062055,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-7/50022914.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter 6 WMN,1419.0,1499.0,XS,Anchor Grey,50022994_0001061481,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022994.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter 6 WMN,1459.0,1499.0,M,Mustard,50022214_0001062301,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022214.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter 7 WMN,1699.0,1799.0,M,Champagne,50022925_0001061476,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50022925.html,€,False,True,2022-02-12 05:00:17.237975
+Roadlite CF 8 WMN,1699.0,1799.0,XS,Light Grey,50019649_0001062206,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8-wmn/50019649.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter 7 WMN,1699.0,1799.0,S,Champagne,50023049_0001062202,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50023049.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter 7,1699.0,1799.0,M,Anchor Grey,50022076_0001062296,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7/50022076.html,€,False,True,2022-02-12 05:00:17.237975
+Grizl 7 Suspension,1899.0,1999.0,L,Matcha,50030043_0001062023,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-7-suspension/50030043.html,€,False,True,2022-02-12 05:00:17.237975
+Endurace WMN CF SL Disc 7.0,2249.0,2299.0,2XS,Burgundy Tinted,50006811,https://www.canyon.com/fr-be/promo-velos/route/endurace-wmn-cf-sl-disc-7.0/2507.html?dwvar_2507_pv_rahmenfarbe=RD%2FBK,€,False,True,2022-02-12 05:00:17.237975
+Exceed CF 6,2349.0,2399.0,S,MTB Racing Team Replica,50030094_0001062258,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-6/50030094.html,€,False,True,2022-02-12 05:00:17.237975
+Roadlite:ON 6,2599.0,2799.0,XS,Shadow Grey,50024617_0001062011,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50024617.html,€,False,True,2022-02-12 05:00:17.237975
+Endurace:ON 7.0,2649.0,2999.0,M,Asphalt Black,50017964_0001062297,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50017964.html,€,False,True,2022-02-12 05:00:17.237975
+Roadlite:ON 6,2849.0,2899.0,XS,Glacier Blue,50030071_0001062089,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50030071.html,€,False,True,2022-02-12 05:00:17.237975
+Inflite CF SL 8,2899.0,3399.0,M,hot mint,50018581_0001062083,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-sl-8/50018581.html,€,False,True,2022-02-12 05:00:17.237975
+Grizl CF SL 8 Suspension,3049.0,3199.0,L,Matcha Splash,50029969_0001061816,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8-suspension/50029969.html,€,False,True,2022-02-12 05:00:17.237975
+Grand Canyon:ON 8,3149.0,3299.0,L,N-Blue,50023328_0001062205,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-8/50023328.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter:ON 7,3149.0,3299.0,M,Champagne,50023606_0001062081,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50023606.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter:ON 7 WMN,3149.0,3299.0,M,Cherry,50024662_0001061799,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50024662.html,€,False,True,2022-02-12 05:00:17.237975
+Roadlite:ON 7,3249.0,3399.0,XL,Light Grey,50023807_0001062095,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023807.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter:ON 7,3249.0,3299.0,M,Dark Navy,50022172_0001062048,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022172.html,€,False,True,2022-02-12 05:00:17.237975
+Commuter:ON 7 WMN,3249.0,3299.0,S,Champagne,50023141_0001061987,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023141.html,€,False,True,2022-02-12 05:00:17.237975
+Pathlite:ON 7,3349.0,3399.0,S,Stealth,50023726_0001062059,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50023726.html,€,False,True,2022-02-12 05:00:17.237975
+Pathlite:ON 7,3349.0,3399.0,XL,Stealth,50022923_0001062049,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50022923.html,€,False,True,2022-02-12 05:00:17.237975
+Pathlite:ON 7,3349.0,3399.0,L,Stealth,50019483_0001062079,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50019483.html,€,False,True,2022-02-12 05:00:17.237975
+Roadlite CF 9 LTD,3349.0,3499.0,M,Shadow Grey,50019383_0001062214,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-9-ltd/50019383.html,€,False,True,2022-02-12 05:00:17.237975
+Endurace CF SL 7 eTAP,3449.0,3499.0,3XS,Frozen Yellow,50030087_0001062244,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-7-etap/50030087.html,€,False,True,2022-02-12 05:00:17.237975
+Neuron:ON 7,3549.0,3699.0,M,Positive Red,50024750_0001062208,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-7/50024750.html,€,False,True,2022-02-12 05:00:17.237975
+Endurace CF SL Disc 8.0 RCH,3549.0,4199.0,M,Stealth,50019478_0001059743,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-disc-8.0-rch/50019478.html,€,False,True,2022-02-12 05:00:17.237975
+Pathlite:ON 8,3849.0,3999.0,S,Dark Navy,50024642_0001062148,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-8/50024642.html,€,False,True,2022-02-12 05:00:17.237975
+Neuron:ON 8 WMN,3949.0,3999.0,S,E-Grey,50023094_0001062024,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-8-wmn/50023094.html,€,False,True,2022-02-12 05:00:17.237975
+Torque 27.5 CF 7,3999.0,4199.0,L,Exhaust Black,50029942_0001062215,https://www.canyon.com/fr-be/promo-velos/vtt/torque-27.5-cf-7/50029942.html,€,False,True,2022-02-12 05:00:17.237975
+Spectral Mullet CF 8 CLLCTV,3999.0,4199.0,L,Funkturm Grey,50029750_0001062286,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-mullet-cf-8-cllctv/50029750.html,€,False,True,2022-02-12 05:00:17.237975
+Torque 29 CF 7,3999.0,4199.0,XL,Kurkuma Kingdom,50029949_0001061459,https://www.canyon.com/fr-be/promo-velos/vtt/torque-29-cf-7/50029949.html,€,False,True,2022-02-12 05:00:17.237975
+Precede:ON CF 9 ST,4249.0,4999.0,XS,Anchor Grey,50024749_0001060595,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024749.html,€,False,True,2022-02-12 05:00:17.237975
+Precede:ON CF 9 ST,4349.0,4999.0,XS,Champagne,50024636_0001062010,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024636.html,€,False,True,2022-02-12 05:00:17.237975
+Grizl CF SLX 8 Di2,4449.0,4699.0,XS,Kale Smash,50026492_0001062257,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-di2/50026492.html,€,False,True,2022-02-12 05:00:17.237975
+Pathlite:ON 9.0,4549.0,4999.0,S,Tundra Green,50019621_0001062009,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019621.html,€,False,True,2022-02-12 05:00:17.237975
+Torque Mullet CF 8,4699.0,4799.0,L,Big Bamboo,50030058_0001062084,https://www.canyon.com/fr-be/promo-velos/vtt/torque-mullet-cf-8/50030058.html,€,False,True,2022-02-12 05:00:17.237975
+Spectral:ON CF 7,4849.0,5199.0,XL,Shades of Purple,50025903_0001060660,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-7/50025903.html,€,False,True,2022-02-12 05:00:17.237975
+Grizl CF SLX 8 eTap Suspension,4899.0,4999.0,L,Kale Smash,50030093_0001062281,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-etap-suspension/50030093.html,€,False,True,2022-02-12 05:00:17.237975
+Grizl CF SLX 8 eTap Suspension,4899.0,4999.0,M,Kale Smash,50029917_0001062072,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-etap-suspension/50029917.html,€,False,True,2022-02-12 05:00:17.237975
+Exceed CFR Team,5549.0,5799.0,M,Team Alpecin-Fenix,50030016_0001062211,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cfr-team/50030016.html,€,False,True,2022-02-12 05:00:17.237975
+Strive CFR,5749.0,5999.0,L,Tech White,50022082_0001062300,https://www.canyon.com/fr-be/promo-velos/vtt/strive-cfr/50022082.html,€,False,True,2022-02-12 05:00:17.237975
+Spectral:ON CF 9,6799.0,7599.0,L,Shades of Shades,50019646_0001062085,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-9/50019646.html,€,False,True,2022-02-12 05:00:17.237975
+Ultimate CF Evo Disc 10.0 SL,6999.0,7999.0,M,Dark Chrome,50014289_0001062091,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cf-evo-disc-10.0-sl/50014289.html,€,False,True,2022-02-12 05:00:17.237975
+Ultimate CF SLX 9 Disc eTap,7199.0,7499.0,S,Rainbow White,50030092_0001062252,https://www.canyon.com/fr-be/promo-velos/vtt/ultimate-cf-slx-9-disc-etap/50030092.html,€,False,True,2022-02-12 05:00:17.237975
+Endurace CF SLX 9 Disc eTap,7399.0,7699.0,XS,Stealth,50030022_0001062082,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-disc-etap/50030022.html,€,False,True,2022-02-12 05:00:17.237975
+Speedmax CF SLX 9.0 TT,8499.0,9499.0,multi,half blue,50001317,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/2146.html?dwvar_2146_pv_rahmenfarbe=BK%2FBU,€,False,True,2022-02-12 05:00:17.237975
+Pathlite 6 WMN,1149.0,1199.0,2XS,Light Grey,50030126_0001062412,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-6-wmn/50030126.html,€,False,True,2022-02-13 05:00:21.419735
+Commuter 6 WMN,1419.0,1499.0,S,Anchor Grey,50022229_0001061879,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022229.html,€,False,True,2022-02-13 05:00:21.419735
+Roadlite:ON AL 7.0,2249.0,2699.0,XL,pace grey,50013965_0001062263,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-al-7.0/50013965.html,€,False,True,2022-02-13 05:00:21.419735
+Exceed CF 7,2749.0,2899.0,M,Quick Silver,50030110_0001062322,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50030110.html,€,False,True,2022-02-13 05:00:21.419735
+Exceed CF SL 8.0 Race Team,2999.0,3999.0,S,black sea - blue,50030111_0001062321,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-sl-8.0-race-team/50030111.html,€,False,True,2022-02-13 05:00:21.419735
+Commuter:ON 7,3149.0,3299.0,M,Champagne,50023606_0001062332,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50023606.html,€,False,True,2022-02-13 05:00:21.419735
+Grail CF SL 7 eTap,3249.0,3499.0,M,Sand,50030109_0001062324,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-7-etap/50030109.html,€,False,True,2022-02-13 05:00:21.419735
+Grail CF SL 7 eTap,3349.0,3499.0,XL,Sand,50030103_0001062323,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-7-etap/50030103.html,€,False,True,2022-02-13 05:00:21.419735
+Grizl CF SL 7 eTap,3349.0,3499.0,S,Wildberry Splatter,50030100_0001062376,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-7-etap/50030100.html,€,False,True,2022-02-13 05:00:21.419735
+Torque CF 8,3899.0,4299.0,L,X-Ray,50030045_0001062384,https://www.canyon.com/fr-be/promo-velos/vtt/torque-cf-8/50030045.html,€,False,True,2022-02-13 05:00:21.419735
+Torque CF 8,3999.0,4299.0,XL,X-Ray,50030104_0001062327,https://www.canyon.com/fr-be/promo-velos/vtt/torque-cf-8/50030104.html,€,False,True,2022-02-13 05:00:21.419735
+Torque Mullet CF 8,4299.0,4799.0,L,Big Bamboo,50030058_0001062084,https://www.canyon.com/fr-be/promo-velos/vtt/torque-mullet-cf-8/50030058.html,€,False,True,2022-02-13 05:00:21.419735
+Torque Mullet CF Fabio Wibmer,5549.0,5799.0,L,Shockwaves,50030121_0001062366,https://www.canyon.com/fr-be/promo-velos/vtt/torque-mullet-cf-fabio-wibmer/50030121.html,€,False,True,2022-02-13 05:00:21.419735
+Endurace CF SLX 9 Disc eTap,7199.0,7699.0,M,Stealth,50029960_0001062216,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-disc-etap/50029960.html,€,False,True,2022-02-13 05:00:21.419735
+Endurace CF SLX 9 Di2,7499.0,7799.0,L,Red Tinted,50030136_0001062422,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-di2/50030136.html,€,False,True,2022-02-13 05:00:21.419735
+Precede:ON CF 9,4499.0,4999.0,M,Champagne,50024771_0001060844,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024771.html,€,False,True,2022-02-14 05:00:30.999932
+Speedmax CF SLX 9.0 LTD,7999.0,9899.0,S,pearl city black,50001313,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-ltd/2145.html?dwvar_2145_pv_rahmenfarbe=BK%2FBU,€,False,True,2022-02-14 05:00:30.999932
+Endurace 6 WMN Disc,1249.0,1299.0,S,Stealth,50015102,https://www.canyon.com/fr-be/promo-velos/route/endurace-6-wmn-disc/2955.html?dwvar_2955_pv_rahmenfarbe=VT%2FWH,€,False,True,2022-02-15 05:00:20.285000
+Neuron 6 WMN,1849.0,1899.0,multi,Storm Pearl,50010003,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-6-wmn/2626.html?dwvar_2626_pv_rahmenfarbe=PK,€,False,True,2022-02-15 05:00:20.285000
+Commuter 8,2299.0,2399.0,multi,Stealth,50000468,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8/1958.html?dwvar_1958_pv_rahmenfarbe=GY,€,False,True,2022-02-15 05:00:20.285000
+Ultimate CF SL 8 WMN Disc Di2,3949.0,3999.0,M,Night Navy,50011525,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cf-sl-8-wmn-disc-di2/2749.html?dwvar_2749_pv_rahmenfarbe=BU%2FTQ,€,False,True,2022-02-15 05:00:20.285000
+Exceed CF 5,1699.0,1799.0,M,Quick Silver,50018759_0001061366,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/50018759.html,€,False,True,2022-02-16 05:00:17.017067
+Neuron 6 WMN,1849.0,1899.0,multi,Storm Pearl,50010004,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-6-wmn/2626.html?dwvar_2626_pv_rahmenfarbe=PK,€,False,True,2022-02-16 05:00:17.017067
+Commuter 8,2299.0,2399.0,multi,grey,50000468,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8/1958.html?dwvar_1958_pv_rahmenfarbe=GY,€,False,True,2022-02-16 05:00:17.017067
+Commuter:ON 7,3249.0,3299.0,M,Champagne,50023606_0001061881,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50023606.html,€,False,True,2022-02-16 05:00:17.017067
+Ultimate CF SL 8 WMN Disc Di2,3799.0,3999.0,S,Canyon / SRAM Replica,50025922_0001061766,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cf-sl-8-wmn-disc-di2/50025922.html,€,False,True,2022-02-16 05:00:17.017067
+Ultimate CF SL 8 WMN Disc Di2,3949.0,3999.0,M,Night Navy,50011520,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cf-sl-8-wmn-disc-di2/2749.html?dwvar_2749_pv_rahmenfarbe=BU%2FWH,€,False,True,2022-02-16 05:00:17.017067
+Neuron:ON 9.0,4099.0,4599.0,L,Transistor Black,50018690_0001062260,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-9.0/50018690.html,€,False,True,2022-02-16 05:00:17.017067
+Pathlite:ON 9.0,4549.0,4999.0,S,Tundra Green,50019621_0001062080,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019621.html,€,False,True,2022-02-16 05:00:17.017067
+Ultimate CFR Disc Aero,8349.0,8499.0,XS,Titan Silver,50029946_0001061450,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cfr-disc-aero/50029946.html,€,False,True,2022-02-16 05:00:17.017067
+Ultimate CFR Disc EPS,8899.0,8999.0,XS,Ultra Stealth,50011693,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cfr-disc-eps/2763.html?dwvar_2763_pv_rahmenfarbe=BK%2FBK,€,False,True,2022-02-16 05:00:17.017067
+Commuter 6 WMN,1419.0,1499.0,XS,Anchor Grey,50022994_0001062088,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022994.html,€,False,True,2022-02-17 05:00:36.225358
+Neuron 6 WMN,1849.0,1899.0,multi,Storm Pearl,50009998,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-6-wmn/2626.html?dwvar_2626_pv_rahmenfarbe=WH%2FGY,€,False,True,2022-02-17 05:00:36.225358
+"Inflite 5
+                        
+
+                        
+                            
+                                Nouveau",1549.0,1599.0,XS,Race Black,50010747,https://www.canyon.com/fr-be/promo-velos/route/inflite-5/2655.html?dwvar_2655_pv_rahmenfarbe=BK%2FWH,€,False,True,2022-02-18 05:00:21.430360
+Commuter 7,1749.0,1799.0,M,Anchor Grey,50022076_0001061370,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7/50022076.html,€,False,True,2022-02-18 05:00:21.430360
+Precede:ON CF 9 ST,4249.0,4999.0,XS,Anchor Grey,50024749_0001062222,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50024749.html,€,False,True,2022-02-18 05:00:21.430360
+Roadlite 7,1419.0,1499.0,XS,Shadow Grey,50023092_0001061134,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-7/50023092.html,€,False,True,2022-02-19 05:00:40.189763
+Endurace CF SL Disc 8.0,2599.0,2699.0,2XL,kerosine red,50006388,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-disc-8.0/2185.html?dwvar_2185_pv_rahmenfarbe=RD,€,False,True,2022-02-19 05:00:40.189763
+Grizl CF SL 8,2849.0,2999.0,XL,Earl Grey,50024781_0001062008,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8/50024781.html,€,False,True,2022-02-19 05:00:40.189763
+Pathlite:ON 9.0,4549.0,4999.0,M,Tundra Green,50019748_0001062378,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019748.html,€,False,True,2022-02-19 05:00:40.189763
+Grand Canyon WMN AL 6.0,869.0,999.0,XS,smooth mint,50013704_0001062466,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-wmn-al-6.0/50013704.html,€,False,True,2022-02-20 05:00:27.927694
+Commuter 5.0,949.0,1399.0,XS,Stealth,50023603_0001062392,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5.0/50023603.html,€,False,True,2022-02-20 05:00:27.927694
+Commuter 5,1019.0,1099.0,M,Anchor Grey,50023473_0001062331,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5/50023473.html,€,False,True,2022-02-20 05:00:27.927694
+Roadlite 6,1099.0,1199.0,XS,Light Grey,50019228_0001062473,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-6/50019228.html,€,False,True,2022-02-20 05:00:27.927694
+Commuter 6 WMN,1419.0,1499.0,M,Anchor Grey,50022061_0001062341,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022061.html,€,False,True,2022-02-20 05:00:27.927694
+Commuter 8.0,2099.0,2399.0,L,grey,50014528_0001062428,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8.0/50014528.html,€,False,True,2022-02-20 05:00:27.927694
+Commuter 8.0,2099.0,2399.0,M,Stealth,50012542_0001062328,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8.0/50012542.html,€,False,True,2022-02-20 05:00:27.927694
+Neuron 7,2199.0,2399.0,XL,Stealth,50023601_0001062427,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-7/50023601.html,€,False,True,2022-02-20 05:00:27.927694
+Exceed CF 6,2299.0,2399.0,L,Quick Silver,50029818_0001062379,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-6/50029818.html,€,False,True,2022-02-20 05:00:27.927694
+Commuter 9 LTD,2399.0,2499.0,L,Grey,50030122_0001062370,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-9-ltd/50030122.html,€,False,True,2022-02-20 05:00:27.927694
+Endurace:ON 7.0,2549.0,2999.0,S,Asphalt Black,50017972_0001062442,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50017972.html,€,False,True,2022-02-20 05:00:27.927694
+Roadlite:ON 6,2749.0,2899.0,S,Glacier Blue,50030140_0001062467,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50030140.html,€,False,True,2022-02-20 05:00:27.927694
+Pathlite:ON 6,2799.0,2999.0,M,Tundra Green,50019652_0001062465,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-6/50019652.html,€,False,True,2022-02-20 05:00:27.927694
+Grizl CF SL 8 Suspension 1by,2799.0,2999.0,S,Earl Grey,50029966_0001062464,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8-suspension-1by/50029966.html,€,False,True,2022-02-20 05:00:27.927694
+Grizl CF SL 8 Suspension 1by,2849.0,2999.0,L,Matcha Splash,50030014_0001062459,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8-suspension-1by/50030014.html,€,False,True,2022-02-20 05:00:27.927694
+Neuron CF 9,2949.0,3399.0,XL,True Blue,50019204_0001062267,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9/50019204.html,€,False,True,2022-02-20 05:00:27.927694
+Pathlite:ON 7,2949.0,3399.0,M,Stealth,50019482_0001062212,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50019482.html,€,False,True,2022-02-20 05:00:27.927694
+Dude CF 9,2949.0,2999.0,S,Volcano,50030134_0001062409,https://www.canyon.com/fr-be/promo-velos/vtt/dude-cf-9/50030134.html,€,False,True,2022-02-20 05:00:27.927694
+Commuter:ON 7,3049.0,3299.0,M,Dark Navy,50022172_0001062371,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022172.html,€,False,True,2022-02-20 05:00:27.927694
+Commuter:ON 7 WMN,3149.0,3299.0,XS,Champagne,50023731_0001062334,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023731.html,€,False,True,2022-02-20 05:00:27.927694
+Grand Canyon:ON 8,3149.0,3299.0,XL,N-Blue,50026539_0001062436,https://www.canyon.com/fr-be/promo-velos/electriques/grand-canyon-on-8/50026539.html,€,False,True,2022-02-20 05:00:27.927694
+Roadlite:ON 7,3149.0,3399.0,L,Light Grey,50023804_0001062492,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023804.html,€,False,True,2022-02-20 05:00:27.927694
+Spectral CF 7 WMN,3199.0,3399.0,M,Soft Coral,50019759_0001062414,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-cf-7-wmn/50019759.html,€,False,True,2022-02-20 05:00:27.927694
+Torque CF 7,3399.0,3699.0,XL,Stealth,50019591_0001062419,https://www.canyon.com/fr-be/promo-velos/vtt/torque-cf-7/50019591.html,€,False,True,2022-02-20 05:00:27.927694
+Grail CF SL 7 eTap,3449.0,3499.0,M,Sand,50030109_0001062393,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-7-etap/50030109.html,€,False,True,2022-02-20 05:00:27.927694
+Neuron:ON 7 WMN,3649.0,3699.0,S,Quantum Grey,50024626_0001062047,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-7-wmn/50024626.html,€,False,True,2022-02-20 05:00:27.927694
+Endurace CF SL Disc 8.0 RCH,3699.0,4199.0,S,Stealth,50029636_0001062438,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-disc-8.0-rch/50029636.html,€,False,True,2022-02-20 05:00:27.927694
+Neuron:ON 8 WMN,3849.0,3999.0,XS,E-Grey,50024773_0001062443,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-8-wmn/50024773.html,€,False,True,2022-02-20 05:00:27.927694
+Pathlite:ON 8,3849.0,3999.0,M,Dark Navy,50024647_0001062344,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-8/50024647.html,€,False,True,2022-02-20 05:00:27.927694
+Speedmax CF 8 WMN DISC,3899.0,4199.0,XS,Light Lobster,50024632_0001062375,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-wmn-disc/50024632.html,€,False,True,2022-02-20 05:00:27.927694
+Spectral WMN CFR 9.0,4149.0,4799.0,M,Dark Trasher,50019207_0001062335,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-wmn-cfr-9.0/50019207.html,€,False,True,2022-02-20 05:00:27.927694
+Grizl CF SLX 8 1by,4349.0,4599.0,M,Kale Smash,50024765_0001062470,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-1by/50024765.html,€,False,True,2022-02-20 05:00:27.927694
+Precede:ON CF 9 ST,4349.0,4999.0,M,Champagne,50023779_0001062256,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023779.html,€,False,True,2022-02-20 05:00:27.927694
+Precede:ON CF 9,4349.0,4999.0,L,Anchor Grey,50022931_0001062340,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50022931.html,€,False,True,2022-02-20 05:00:27.927694
+Pathlite:ON 9.0,4399.0,4999.0,M,Tundra Green,50019748_0001062423,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019748.html,€,False,True,2022-02-20 05:00:27.927694
+Sender CFR FMD,4399.0,4699.0,L,X-Ray,50024582_0001062457,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr-fmd/50024582.html,€,False,True,2022-02-20 05:00:27.927694
+Sender CFR FMD,4399.0,4699.0,S,Stealth,50030151_0001062489,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr-fmd/50030151.html,€,False,True,2022-02-20 05:00:27.927694
+Neuron CF LTD,4549.0,4999.0,M,Limited Black,50019243_0001062314,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-ltd/50019243.html,€,False,True,2022-02-20 05:00:27.927694
+Spectral:ON CF 8.0,4699.0,5599.0,XL,Shades of Purple,50018661_0001062372,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-8.0/50018661.html,€,False,True,2022-02-20 05:00:27.927694
+Torque CF 9,4699.0,4999.0,M,New Violet,50025941_0001062439,https://www.canyon.com/fr-be/promo-velos/vtt/torque-cf-9/50025941.html,€,False,True,2022-02-20 05:00:27.927694
+Torque:ON 9,5399.0,5999.0,L,Stealth,50022159_0001062254,https://www.canyon.com/fr-be/promo-velos/electriques/torque-on-9/50022159.html,€,False,True,2022-02-20 05:00:27.927694
+Torque:ON 9,5399.0,5999.0,XL,Stealth,50024782_0001062299,https://www.canyon.com/fr-be/promo-velos/electriques/torque-on-9/50024782.html,€,False,True,2022-02-20 05:00:27.927694
+Speedmax CF 8 WMN DISC Di2,5549.0,5799.0,S,Light Lobster,50022221_0001062359,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-wmn-disc-di2/50022221.html,€,False,True,2022-02-20 05:00:27.927694
+Endurace CF SLX 9 DISC Di2,6349.0,6999.0,M,Stealth,50024763_0001060061,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-disc-di2/50024763.html,€,False,True,2022-02-20 05:00:27.927694
+Grail CF SLX 9 eTap,6399.0,6499.0,XS,Sand Fade,50030143_0001062455,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-slx-9-etap/50030143.html,€,False,True,2022-02-20 05:00:27.927694
+Speedmax CF SLX 9.0 TT,8199.0,9499.0,S,half blue,50009234_0001062380,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/50009234.html,€,False,True,2022-02-20 05:00:27.927694
+Grizl CF SLX 8 1by,4349.0,4599.0,XL,Kale Smash,50029623_0001062388,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-1by/50029623.html,€,False,True,2022-02-21 05:00:17.035085
+Endurace CF SLX 9 Disc eTap,7399.0,7699.0,L,Stealth,50029901_0001062363,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-disc-etap/50029901.html,€,False,True,2022-02-22 05:00:14.550361
+Roadlite:ON AL 9.0,2899.0,3699.0,L,storm grey - black,50012763_0001052013,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-al-9.0/50012763.html,€,False,True,2022-02-23 05:00:29.365493
+Endurace CF SL 8 Disc Di2,3549.0,3599.0,2XL,Frozen Yellow,50015030,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-disc-di2/2949.html?dwvar_2949_pv_rahmenfarbe=YE%2FBK,€,False,True,2022-02-23 05:00:29.365493
+Grand Canyon 5,769.0,849.0,S,Supertrue Blue,50019285_0001061776,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-5/50019285.html,€,False,True,2022-02-25 05:00:25.384111
+Commuter 5 WMN,1049.0,1099.0,S,Mustard,50023327_0001062568,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5-wmn/50023327.html,€,False,True,2022-02-25 05:00:25.384111
+Grand Canyon AL SL 8.0,1099.0,1299.0,XS,radical red,50030074_0001062702,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-al-sl-8.0/50030074.html,€,False,True,2022-02-25 05:00:25.384111
+Endurace 6 WMN Disc,1249.0,1299.0,M,Stealth,50015098,https://www.canyon.com/fr-be/promo-velos/route/endurace-6-wmn-disc/2955.html?dwvar_2955_pv_rahmenfarbe=BK%2FMC,€,False,True,2022-02-25 05:00:25.384111
+Commuter 7,1699.0,1799.0,L,Mustard,50022222_0001062563,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7/50022222.html,€,False,True,2022-02-25 05:00:25.384111
+Commuter 7 WMN,1699.0,1799.0,M,Champagne,50022925_0001062618,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50022925.html,€,False,True,2022-02-25 05:00:25.384111
+Commuter 7,1749.0,1799.0,L,Anchor Grey,50022197_0001062595,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7/50022197.html,€,False,True,2022-02-25 05:00:25.384111
+Dude CF 8,2099.0,2199.0,L,Deep Forest,50019441_0001062480,https://www.canyon.com/fr-be/promo-velos/vtt/dude-cf-8/50019441.html,€,False,True,2022-02-25 05:00:25.384111
+Commuter 9 LTD,2299.0,2499.0,M,Grey,50030178_0001062629,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-9-ltd/50030178.html,€,False,True,2022-02-25 05:00:25.384111
+Endurace CF SL 8 WMN DISC,2599.0,2799.0,S,Burgundy Tinted,50025937_0001062451,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-wmn-disc/50025937.html,€,False,True,2022-02-25 05:00:25.384111
+Endurace:ON 7.0,2699.0,2999.0,L,Asphalt Black,50014634_0001062657,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50014634.html,€,False,True,2022-02-25 05:00:25.384111
+Exceed CF 7 WMN,2749.0,2799.0,L,Unicorn White,50010037,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7-wmn/2640.html?dwvar_2640_pv_rahmenfarbe=WH%2FMC,€,False,True,2022-02-25 05:00:25.384111
+Roadlite:ON 6,2849.0,2899.0,M,Glacier Blue,50029916_0001062638,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50029916.html,€,False,True,2022-02-25 05:00:25.384111
+Endurace CF 7 eTap,2949.0,2999.0,M,Stealth,50030137_0001062544,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-7-etap/50030137.html,€,False,True,2022-02-25 05:00:25.384111
+Commuter:ON 7,3049.0,3299.0,L,Dark Navy,50022901_0001062540,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022901.html,€,False,True,2022-02-25 05:00:25.384111
+Commuter:ON 7 WMN,3049.0,3299.0,M,Champagne,50023475_0001062524,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023475.html,€,False,True,2022-02-25 05:00:25.384111
+Commuter:ON 7,3149.0,3299.0,L,Champagne,50024790_0001062584,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50024790.html,€,False,True,2022-02-25 05:00:25.384111
+Commuter:ON 7,3249.0,3299.0,M,Dark Navy,50022172_0001062639,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022172.html,€,False,True,2022-02-25 05:00:25.384111
+Grail CF SL 8 eTap,3899.0,4199.0,M,Discovery Blue,50023462_0001061629,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-etap/50023462.html,€,False,True,2022-02-25 05:00:25.384111
+Torque Mullet CF 8,4299.0,4799.0,L,Big Bamboo,50030058_0001062361,https://www.canyon.com/fr-be/promo-velos/vtt/torque-mullet-cf-8/50030058.html,€,False,True,2022-02-25 05:00:25.384111
+Neuron CF LTD,4349.0,4999.0,M,Limited Black,50019243_0001062315,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-ltd/50019243.html,€,False,True,2022-02-25 05:00:25.384111
+Endurace CF SLX Disc 8.0 ETAP,5099.0,5499.0,L,Red Tinted,50014086_0001062528,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-disc-8.0-etap/50014086.html,€,False,True,2022-02-25 05:00:25.384111
+Endurace CF SLX 9 Disc eTap,7399.0,7699.0,M,Stealth,50029960_0001062646,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-disc-etap/50029960.html,€,False,True,2022-02-26 05:00:13.806549
+Roadlite:ON 7,3249.0,3399.0,M,Light Grey,50023722_0001062651,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,True,2022-02-28 05:00:18.653329
+Speedmax CF SLX 9.0 SL,6999.0,8899.0,S,pearl city black,50001304,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/2144.html?dwvar_2144_pv_rahmenfarbe=BK%2FGY,€,False,True,2022-02-28 05:00:18.653329
+Commuter 6 WMN,1419.0,1499.0,M,Anchor Grey,50022061_0001062391,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022061.html,€,False,True,2022-03-01 05:00:20.601395
+Commuter 7 WMN,1749.0,1799.0,S,Champagne,50023049_0001062599,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50023049.html,€,False,True,2022-03-01 05:00:20.601395
+Roadlite:ON 6,2599.0,2799.0,XS,Shadow Grey,50024617_0001062042,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50024617.html,€,False,True,2022-03-01 05:00:20.601395
+Pathlite:ON 8,3949.0,3999.0,S,Dark Navy,50024642_0001061989,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-8/50024642.html,€,False,True,2022-03-01 05:00:20.601395
+Grail CF SL 8 Di2,3649.0,3699.0,XS,Cloud Grey,50010811,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-di2/2718.html?dwvar_2718_pv_rahmenfarbe=GY%2FBK,€,False,True,2022-03-02 05:00:22.633184
+Spectral 27.5 CF 9,5399.0,5499.0,M,Exhaust Black,50030007_0001061686,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-27.5-cf-9/50030007.html,€,False,True,2022-03-02 05:00:22.633184
+Grand Canyon AL SL 9.0,1099.0,1299.0,XS,Flash Blue,50030075_0001062694,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-al-sl-9.0/50030075.html,€,False,True,2022-03-03 05:00:09.839188
+Neuron Young Hero,1499.0,1599.0,2XS,Shockwave,50030070_0001062594,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-young-hero/50030070.html,€,False,True,2022-03-03 05:00:09.839188
+Inflite CF SL 7,2599.0,2799.0,L,Stealth,50019200_0001062630,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-sl-7/50019200.html,€,False,True,2022-03-03 05:00:09.839188
+Grizl CF SL 8,2849.0,2999.0,XL,Earl Grey,50024781_0001062421,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8/50024781.html,€,False,True,2022-03-03 05:00:09.839188
+Neuron CF 9 SL,3799.0,3999.0,M,Team Red,50019358_0001061688,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9-sl/50019358.html,€,False,True,2022-03-03 05:00:09.839188
+Neuron CF LTD,4349.0,4999.0,L,Limited Black,50019270_0001062654,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-ltd/50019270.html,€,False,True,2022-03-03 05:00:09.839188
+Grizl CF SLX 8 Di2,4449.0,4699.0,XS,Kale Smash,50026492_0001062463,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-di2/50026492.html,€,False,True,2022-03-03 05:00:09.839188
+Grail:ON CF 7,4449.0,4999.0,XL,Cloud Grey,50029687_0001062396,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-7/50029687.html,€,False,True,2022-03-03 05:00:09.839188
+Grizl CF SLX 8 1by,4499.0,4599.0,XS,Kale Smash,50030186_0001062626,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-1by/50030186.html,€,False,True,2022-03-03 05:00:09.839188
+Grail:ON CF 8,4549.0,5299.0,M,Discovery Blue,50018770_0001062586,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-8/50018770.html,€,False,True,2022-03-03 05:00:09.839188
+Grail CF SLX 8 Di2,5099.0,5199.0,L,Forest Fade,50030187_0001062627,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-slx-8-di2/50030187.html,€,False,True,2022-03-03 05:00:09.839188
+Roadlite 5 WMN,829.0,899.0,L,Light Grey - Raspberry,50022200_0001062529,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-5-wmn/50022200.html,€,False,True,2022-03-04 05:00:14.014780
+Roadlite 5,829.0,899.0,XL,Steel Blue,50030106_0001062688,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-5/50030106.html,€,False,True,2022-03-04 05:00:14.014780
+Roadlite 6,1119.0,1199.0,M,Light Grey,50019178_0001062567,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-6/50019178.html,€,False,True,2022-03-04 05:00:14.014780
+Roadlite 7,1419.0,1499.0,XL,Shadow Grey,50023754_0001062569,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-7/50023754.html,€,False,True,2022-03-04 05:00:14.014780
+Pathlite 7,1549.0,1599.0,2XL,Shadow Grey,50024554_0001061744,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-7/50024554.html,€,False,True,2022-03-04 05:00:14.014780
+Roadlite CF 8,1749.0,1999.0,XL,Light Grey - Mint,50022154_0001062592,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8/50022154.html,€,False,True,2022-03-04 05:00:14.014780
+Roadlite:ON AL 7.0,2249.0,2699.0,XS,pace grey,50014176_0001062437,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-al-7.0/50014176.html,€,False,True,2022-03-04 05:00:14.014780
+Pathlite:ON 4,2399.0,2499.0,L,Lake Blue,50029631_0001062652,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-4/50029631.html,€,False,True,2022-03-04 05:00:14.014780
+Sender 5,2599.0,2799.0,XL,Rampant Purple,50019592_0001062571,https://www.canyon.com/fr-be/promo-velos/vtt/sender-5/50019592.html,€,False,True,2022-03-04 05:00:14.014780
+Roadlite:ON 6,2749.0,2899.0,S,Glacier Blue,50030140_0001062687,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50030140.html,€,False,True,2022-03-04 05:00:14.014780
+Spectral CF 7 WMN,3199.0,3399.0,S,Soft Coral,50019394_0001062613,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-cf-7-wmn/50019394.html,€,False,True,2022-03-04 05:00:14.014780
+Pathlite:ON 7,3249.0,3399.0,XL,Stealth,50022923_0001062647,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50022923.html,€,False,True,2022-03-04 05:00:14.014780
+Roadlite:ON 7,3249.0,3399.0,S,Light Grey,50023763_0001057752,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023763.html,€,False,True,2022-03-04 05:00:14.014780
+Precede:ON CF 8 ST,3749.0,4299.0,S,Champagne,50023052_0001062565,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-8-st/50023052.html,€,False,True,2022-03-04 05:00:14.014780
+Neuron:ON 8 WMN,3849.0,3999.0,XS,E-Grey,50024773_0001062640,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-8-wmn/50024773.html,€,False,True,2022-03-04 05:00:14.014780
+Spectral 29 CF 8,3999.0,4299.0,XL,X-Ray,50030188_0001062628,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-8/50030188.html,€,False,True,2022-03-04 05:00:14.014780
+Speedmax CF 8 Disc,3999.0,4199.0,M,Flash Yellow,50029983_0001062395,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc/50029983.html,€,False,True,2022-03-04 05:00:14.014780
+Spectral 27.5 CF 8,4299.0,4499.0,M,Big Bamboo,50030197_0001062677,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-27.5-cf-8/50030197.html,€,False,True,2022-03-04 05:00:14.014780
+Precede:ON CF 9 ST,4349.0,4999.0,L,Anchor Grey,50023456_0001062601,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023456.html,€,False,True,2022-03-04 05:00:14.014780
+Precede:ON CF 9,4349.0,4999.0,L,Champagne,50024629_0001062488,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024629.html,€,False,True,2022-03-04 05:00:14.014780
+Precede:ON CF 9 ST,4349.0,4999.0,L,Champagne,50030189_0001062635,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50030189.html,€,False,True,2022-03-04 05:00:14.014780
+Pathlite:ON 9.0,4549.0,4999.0,L,Tundra Green,50019004_0001062469,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019004.html,€,False,True,2022-03-04 05:00:14.014780
+Pathlite:ON 9.0,4549.0,4999.0,M,Tundra Green,50019748_0001062475,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019748.html,€,False,True,2022-03-04 05:00:14.014780
+Speedmax CF 7 Disc eTap,4899.0,4999.0,XS,Stealth,50029951_0001062714,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029951.html,€,False,True,2022-03-04 05:00:14.014780
+Speedmax CF 7 Disc eTap,4899.0,4999.0,M,Stealth,50029751_0001062596,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029751.html,€,False,True,2022-03-04 05:00:14.014780
+Sender CFR,5099.0,5499.0,M,Stealth,50030171_0001062551,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50030171.html,€,False,True,2022-03-04 05:00:14.014780
+Sender CFR,5099.0,5499.0,XL,Stealth,50019233_0001062420,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50019233.html,€,False,True,2022-03-04 05:00:14.014780
+Spectral 29 LTD,5949.0,6299.0,L,Exhaust Black,50029867_0001062536,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-ltd/50029867.html,€,False,True,2022-03-04 05:00:14.014780
+Pathlite 7,1449.0,1599.0,2XL,Shadow Grey,50024554_0001060133,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-7/50024554.html,€,False,True,2022-03-05 05:00:16.791209
+Speedmax CF 8 DISC Di2,5399.0,5799.0,XL,Non Mint,50024807_0001059494,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-di2/50024807.html,€,False,True,2022-03-05 05:00:16.791209
+Speedmax CF SLX 9.0 SL,6999.0,8899.0,S,pearl city black,50001307,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-sl/2144.html?dwvar_2144_pv_rahmenfarbe=BK%2FBU,€,False,True,2022-03-05 05:00:16.791209
+Pathlite 5 WMN,929.0,999.0,S,Glacier Blue,50019487_0001062835,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-5-wmn/50019487.html,€,False,True,2022-03-06 05:00:23.051885
+Commuter 5,1019.0,1099.0,S,Anchor Grey,50022930_0001062824,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5/50022930.html,€,False,True,2022-03-06 05:00:23.051885
+Roadlite 6,1119.0,1199.0,L,Light Grey,50019055_0001062771,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-6/50019055.html,€,False,True,2022-03-06 05:00:23.051885
+Roadlite 6,1119.0,1199.0,M,Light Grey,50019178_0001062615,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-6/50019178.html,€,False,True,2022-03-06 05:00:23.051885
+Pathlite 6 WMN,1149.0,1199.0,M,Light Grey,50022086_0001062765,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-6-wmn/50022086.html,€,False,True,2022-03-06 05:00:23.051885
+Roadlite 7,1419.0,1499.0,S,Shadow Grey,50019761_0001062827,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-7/50019761.html,€,False,True,2022-03-06 05:00:23.051885
+Pathlite 7,1499.0,1599.0,L,Shadow Grey,50019859_0001062898,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-7/50019859.html,€,False,True,2022-03-06 05:00:23.051885
+Stoic 4,1599.0,1699.0,XS,Flat Green,50023567_0001062910,https://www.canyon.com/fr-be/promo-velos/vtt/stoic-4/50023567.html,€,False,True,2022-03-06 05:00:23.051885
+Commuter 7,1599.0,1799.0,M,Anchor Grey,50022076_0001062763,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7/50022076.html,€,False,True,2022-03-06 05:00:23.051885
+Stitched 720,1649.0,1799.0,M,Cloud Blue,50019459_0001062909,https://www.canyon.com/fr-be/promo-velos/vtt/stitched-720/50019459.html,€,False,True,2022-03-06 05:00:23.051885
+Commuter 7,1699.0,1799.0,S,Anchor Grey,50022843_0001062834,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7/50022843.html,€,False,True,2022-03-06 05:00:23.051885
+Exceed CF 5,1799.0,1899.0,M,Quick Silver,50030214_0001062754,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/50030214.html,€,False,True,2022-03-06 05:00:23.051885
+Roadlite CF 8,1899.0,1999.0,S,Light Grey - Mint,50023018_0001062764,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8/50023018.html,€,False,True,2022-03-06 05:00:23.051885
+Exceed CF 6,2299.0,2399.0,L,MTB Racing Team Replica,50029746_0001062752,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-6/50029746.html,€,False,True,2022-03-06 05:00:23.051885
+Commuter 9 LTD,2399.0,2499.0,M,Grey,50030178_0001062740,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-9-ltd/50030178.html,€,False,True,2022-03-06 05:00:23.051885
+Commuter 9 LTD,2449.0,2499.0,L,Grey,50030122_0001062825,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-9-ltd/50030122.html,€,False,True,2022-03-06 05:00:23.051885
+Roadlite:ON 6,2849.0,2899.0,L,Glacier Blue,50030219_0001062755,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-6/50030219.html,€,False,True,2022-03-06 05:00:23.051885
+Exceed CF 7,2849.0,2899.0,XL,MTB Racing Team Replica,50029831_0001062739,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50029831.html,€,False,True,2022-03-06 05:00:23.051885
+Exceed CF 7,2849.0,2899.0,M,MTB Racing Team Replica,50029658_0001062738,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50029658.html,€,False,True,2022-03-06 05:00:23.051885
+Pathlite:ON 6,2949.0,2999.0,XL,Tundra Green,50022955_0001062729,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-6/50022955.html,€,False,True,2022-03-06 05:00:23.051885
+Neuron CF 8 WMN,2949.0,2999.0,XS,Frozen Valentine,50030233_0001062843,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-8-wmn/50030233.html,€,False,True,2022-03-06 05:00:23.051885
+Endurace CF SL Disc 8.0 Di2,2999.0,3399.0,2XL,Stealth,50012706_0001062718,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-disc-8.0-di2/50012706.html,€,False,True,2022-03-06 05:00:23.051885
+Grizl CF SL 8 Suspension,3049.0,3199.0,S,Matcha Splash,50030204_0001062762,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8-suspension/50030204.html,€,False,True,2022-03-06 05:00:23.051885
+Commuter:ON 7 WMN,3149.0,3299.0,S,Champagne,50023141_0001062642,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023141.html,€,False,True,2022-03-06 05:00:23.051885
+Commuter:ON 7,3149.0,3299.0,M,Dark Navy,50022172_0001062713,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7/50022172.html,€,False,True,2022-03-06 05:00:23.051885
+Neuron CF 9 SL,3499.0,3999.0,L,Stealth,50019462_0001062770,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9-sl/50019462.html,€,False,True,2022-03-06 05:00:23.051885
+Neuron CF 9 SL,3499.0,3999.0,XL,Stealth,50019658_0001062719,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9-sl/50019658.html,€,False,True,2022-03-06 05:00:23.051885
+Neuron:ON 7 WMN,3499.0,3699.0,XS,Quantum Grey,50026499_0001062712,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-7-wmn/50026499.html,€,False,True,2022-03-06 05:00:23.051885
+Neuron CF 9 SL,3599.0,3999.0,M,Stealth,50019191_0001062717,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9-sl/50019191.html,€,False,True,2022-03-06 05:00:23.051885
+Spectral CF 9,3899.0,4299.0,XL,Non Forest,50030209_0001062760,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-cf-9/50030209.html,€,False,True,2022-03-06 05:00:23.051885
+Speedmax CF 8 DISC,3999.0,4199.0,XL,Stealth,50024791_0001062806,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc/50024791.html,€,False,True,2022-03-06 05:00:23.051885
+Spectral Mullet CF 8 CLLCTV,3999.0,4199.0,L,Funkturm Grey,50029750_0001062845,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-mullet-cf-8-cllctv/50029750.html,€,False,True,2022-03-06 05:00:23.051885
+Neuron CF LTD,4549.0,4999.0,M,Limited Black,50019243_0001062711,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-ltd/50019243.html,€,False,True,2022-03-06 05:00:23.051885
+Torque:ON 8,4549.0,4799.0,L,Shades of Stealth,50019616_0001062736,https://www.canyon.com/fr-be/promo-velos/electriques/torque-on-8/50019616.html,€,False,True,2022-03-06 05:00:23.051885
+Spectral 29 CF 9,4599.0,5199.0,XL,Exhaust Black,50023463_0001062833,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50023463.html,€,False,True,2022-03-06 05:00:23.051885
+Torque Mullet CF 8,4699.0,4799.0,L,Big Bamboo,50030058_0001062631,https://www.canyon.com/fr-be/promo-velos/vtt/torque-mullet-cf-8/50030058.html,€,False,True,2022-03-06 05:00:23.051885
+Grail:ON CF 8,4699.0,5299.0,XL,Discovery Blue,50022217_0001062730,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-8/50022217.html,€,False,True,2022-03-06 05:00:23.051885
+Spectral 29 CF 9,5049.0,5199.0,S,Thermite Red,50019838_0001062908,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50019838.html,€,False,True,2022-03-06 05:00:23.051885
+Torque 29 CF 9,5699.0,5999.0,L,Exhaust Black,50030040_0001062772,https://www.canyon.com/fr-be/promo-velos/vtt/torque-29-cf-9/50030040.html,€,False,True,2022-03-06 05:00:23.051885
+Torque:ON 9,5899.0,5999.0,XL,Stealth,50024782_0001062674,https://www.canyon.com/fr-be/promo-velos/electriques/torque-on-9/50024782.html,€,False,True,2022-03-06 05:00:23.051885
+Torque 27.5 CF 9,5899.0,5999.0,M,Big Bamboo,50030230_0001062832,https://www.canyon.com/fr-be/promo-velos/vtt/torque-27.5-cf-9/50030230.html,€,False,True,2022-03-06 05:00:23.051885
+Spectral:ON CF 9,7249.0,7599.0,M,Shades of Shades,50019645_0001062745,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-9/50019645.html,€,False,True,2022-03-06 05:00:23.051885
+Endurace CF SLX 9 Di2,7499.0,7799.0,L,Stealth,50030231_0001062829,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-di2/50030231.html,€,False,True,2022-03-06 05:00:23.051885
+Roadlite:ON 7,3249.0,3399.0,M,Light Grey,50023722_0001062726,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,True,2022-03-07 05:00:11.029265
+Neuron:ON 7 WMN,3499.0,3699.0,XS,Quantum Grey,50026499_0001062841,https://www.canyon.com/fr-be/promo-velos/electriques/neuron-on-7-wmn/50026499.html,€,False,True,2022-03-07 05:00:11.029265
+Sender CFR,5099.0,5499.0,M,Stealth,50030171_0001062564,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50030171.html,€,False,True,2022-03-07 05:00:11.029265
+Exceed CF 5,1799.0,1899.0,M,Quick Silver,50030214_0001062756,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-5/50030214.html,€,False,True,2022-03-08 05:00:22.213032
+Commuter 8.0,2199.0,2399.0,M,grey,50013548_0001061348,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-8.0/50013548.html,€,False,True,2022-03-08 05:00:22.213032
+Spectral 29 CF 9,4899.0,5199.0,M,Exhaust Black,50022213_0001062722,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50022213.html,€,False,True,2022-03-09 05:00:18.132127
+Lux Trail CF 9 Emily Batty,5699.0,5799.0,L,MTB Racing Team Replica,50030000_0001062684,https://www.canyon.com/fr-be/promo-velos/vtt/lux-trail-cf-9-emily-batty/50030000.html,€,False,True,2022-03-09 05:00:18.132127
+Commuter 6 WMN,1419.0,1499.0,M,Anchor Grey,50022061_0001062525,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-6-wmn/50022061.html,€,False,True,2022-03-10 05:00:14.812714
+Pathlite 7,1449.0,1599.0,L,Shadow Grey,50019859_0001061967,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-7/50019859.html,€,False,True,2022-03-10 05:00:14.812714
+Torque 29 CF 7,3999.0,4199.0,XL,Kurkuma Kingdom,50029949_0001062151,https://www.canyon.com/fr-be/promo-velos/vtt/torque-29-cf-7/50029949.html,€,False,True,2022-03-11 05:00:15.288025
+Commuter 7 WMN,1699.0,1799.0,M,Champagne,50022925_0001062750,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50022925.html,€,False,True,2022-03-12 05:00:09.063419
+Ultimate CF SL 8 WMN Disc Di2,3949.0,3999.0,M,Canyon / SRAM Replica,50011525,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cf-sl-8-wmn-disc-di2/2749.html?dwvar_2749_pv_rahmenfarbe=BU%2FTQ,€,False,True,2022-03-12 05:00:09.063419
+Spectral:ON CF 7.0,4049.0,4599.0,XL,Shades of Purple,50019833_0001062041,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-7.0/50019833.html,€,False,True,2022-03-12 05:00:09.063419
+Roadlite 5 WMN,849.0,899.0,L,Light Grey - Raspberry,50022200_0001063049,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-5-wmn/50022200.html,€,False,True,2022-03-13 05:00:19.368078
+Pathlite 5 WMN,929.0,999.0,M,Glacier Blue,50019376_0001063040,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-5-wmn/50019376.html,€,False,True,2022-03-13 05:00:19.368078
+Pathlite 5,929.0,999.0,S,Forest Green,50019057_0001062943,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-5/50019057.html,€,False,True,2022-03-13 05:00:19.368078
+Commuter 5,1019.0,1099.0,L,Anchor Grey,50022848_0001063016,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5/50022848.html,€,False,True,2022-03-13 05:00:19.368078
+Roadlite 6 WMN,1149.0,1199.0,M,Shadow Grey,50019039_0001063075,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-6-wmn/50019039.html,€,False,True,2022-03-13 05:00:19.368078
+Neuron Young Hero,1519.0,1599.0,2XS,Shockwave,50030070_0001062086,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-young-hero/50030070.html,€,False,True,2022-03-13 05:00:19.368078
+Pathlite 7 WMN,1549.0,1599.0,XS,Shadow Grey,50023793_0001063079,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-7-wmn/50023793.html,€,False,True,2022-03-13 05:00:19.368078
+Commuter 7 WMN,1699.0,1799.0,S,Champagne,50023049_0001062903,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50023049.html,€,False,True,2022-03-13 05:00:19.368078
+Roadlite CF 8 WMN,1699.0,1799.0,S,Light Grey,50019428_0001063012,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8-wmn/50019428.html,€,False,True,2022-03-13 05:00:19.368078
+Neuron 6 WMN,1849.0,1899.0,M,Storm Pearl,50009999,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-6-wmn/2626.html?dwvar_2626_pv_rahmenfarbe=WH%2FGY,€,False,True,2022-03-13 05:00:19.368078
+Exceed CF 6,2299.0,2399.0,L,MTB Racing Team Replica,50029746_0001063048,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-6/50029746.html,€,False,True,2022-03-13 05:00:19.368078
+Exceed CF 6,2349.0,2399.0,L,Team Alpecin-Fenix,50029698_0001063118,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-6/50029698.html,€,False,True,2022-03-13 05:00:19.368078
+Neuron 7 WMN,2649.0,2699.0,M,Dipped Summit,50029992_0001063050,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-7-wmn/50029992.html,€,False,True,2022-03-13 05:00:19.368078
+Endurace:ON 7.0,2699.0,2999.0,M,Asphalt Black,50017964_0001063102,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50017964.html,€,False,True,2022-03-13 05:00:19.368078
+Exceed CF 7,2849.0,2899.0,L,Quick Silver,50029907_0001062941,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50029907.html,€,False,True,2022-03-13 05:00:19.368078
+Endurace CF 7 eTap,2949.0,2999.0,S,Stealth,50030175_0001063140,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-7-etap/50030175.html,€,False,True,2022-03-13 05:00:19.368078
+Endurace CF 7 All-Road,2949.0,2999.0,M,Space Blue,50030248_0001063024,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-7-all-road/50030248.html,€,False,True,2022-03-13 05:00:19.368078
+Grizl CF SL 8,3049.0,3199.0,M,Matcha Splash,50024703_0001063110,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8/50024703.html,€,False,True,2022-03-13 05:00:19.368078
+Inflite CF SL 8,3049.0,3399.0,XS,hot mint,50024567_0001062942,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-sl-8/50024567.html,€,False,True,2022-03-13 05:00:19.368078
+Endurace WMN CF SL 8.0 Di2,3099.0,3399.0,3XS,Burgundy Tinted,50024593_0001063037,https://www.canyon.com/fr-be/promo-velos/route/endurace-wmn-cf-sl-8.0-di2/50024593.html,€,False,True,2022-03-13 05:00:19.368078
+Pathlite:ON 7,3249.0,3399.0,S,Stealth,50023726_0001063077,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50023726.html,€,False,True,2022-03-13 05:00:19.368078
+Speedmax CF 7 Disc,3249.0,3299.0,M,Stealth,50030269_0001063129,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc/50030269.html,€,False,True,2022-03-13 05:00:19.368078
+Pathlite:ON 7,3249.0,3399.0,M,Stealth,50019482_0001063013,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50019482.html,€,False,True,2022-03-13 05:00:19.368078
+Roadlite:ON 7,3249.0,3399.0,XL,Light Grey,50023807_0001063018,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023807.html,€,False,True,2022-03-13 05:00:19.368078
+Pathlite:ON 7,3249.0,3399.0,L,Stealth,50019483_0001063072,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50019483.html,€,False,True,2022-03-13 05:00:19.368078
+Endurace CF SL 7 eTAP,3449.0,3499.0,S,Frozen Yellow,50030247_0001062934,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-7-etap/50030247.html,€,False,True,2022-03-13 05:00:19.368078
+Neuron CF 9 SL,3799.0,3999.0,L,Stealth,50019462_0001062913,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-9-sl/50019462.html,€,False,True,2022-03-13 05:00:19.368078
+Endurace CF SL Disc 8.0 RCH,3799.0,4199.0,XL,Stealth,50029637_0001060997,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-disc-8.0-rch/50029637.html,€,False,True,2022-03-13 05:00:19.368078
+Strive CF 8,3849.0,4199.0,M,Stealth,50029888_0001062927,https://www.canyon.com/fr-be/promo-velos/vtt/strive-cf-8/50029888.html,€,False,True,2022-03-13 05:00:19.368078
+Strive CF 8,3849.0,4199.0,M,X-Ray,50024571_0001062947,https://www.canyon.com/fr-be/promo-velos/vtt/strive-cf-8/50024571.html,€,False,True,2022-03-13 05:00:19.368078
+Strive CF 8,3849.0,4199.0,L,X-Ray,50026541_0001063017,https://www.canyon.com/fr-be/promo-velos/vtt/strive-cf-8/50026541.html,€,False,True,2022-03-13 05:00:19.368078
+Endurace CF SL 8 Di2,3849.0,3999.0,M,Frozen Yellow,50030254_0001063026,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-di2/50030254.html,€,False,True,2022-03-13 05:00:19.368078
+Strive CF 8,3949.0,4199.0,XL,X-Ray,50022205_0001063020,https://www.canyon.com/fr-be/promo-velos/vtt/strive-cf-8/50022205.html,€,False,True,2022-03-13 05:00:19.368078
+Lux Trail CF 7,4099.0,4299.0,M,Columbia Blue,50030244_0001062930,https://www.canyon.com/fr-be/promo-velos/vtt/lux-trail-cf-7/50030244.html,€,False,True,2022-03-13 05:00:19.368078
+Torque 29 CF 7,4099.0,4199.0,L,Exhaust Black,50030011_0001063137,https://www.canyon.com/fr-be/promo-velos/vtt/torque-29-cf-7/50030011.html,€,False,True,2022-03-13 05:00:19.368078
+Precede:ON CF 9,4349.0,4999.0,M,Champagne,50024771_0001063035,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9/50024771.html,€,False,True,2022-03-13 05:00:19.368078
+Spectral:ON CF 6,4449.0,4699.0,XL,Shades of Lime,50029972_0001063021,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-6/50029972.html,€,False,True,2022-03-13 05:00:19.368078
+Pathlite:ON 9.0,4549.0,4999.0,M,Tundra Green,50019748_0001063014,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019748.html,€,False,True,2022-03-13 05:00:19.368078
+Grail:ON CF 8,4699.0,5299.0,XL,Cloud Grey,50019542_0001063039,https://www.canyon.com/fr-be/promo-velos/electriques/grail-on-cf-8/50019542.html,€,False,True,2022-03-13 05:00:19.368078
+Endurace CF SL 8 Disc eTap,4699.0,4799.0,2XL,Stealth Grey,50030251_0001063023,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-sl-8-disc-etap/50030251.html,€,False,True,2022-03-13 05:00:19.368078
+Grizl CF SLX 8 eTap Suspension,4749.0,4999.0,S,Grape Explosion,50029820_0001063120,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-etap-suspension/50029820.html,€,False,True,2022-03-13 05:00:19.368078
+Sender CFR,5099.0,5499.0,M,Stealth,50030171_0001062939,https://www.canyon.com/fr-be/promo-velos/vtt/sender-cfr/50030171.html,€,False,True,2022-03-13 05:00:19.368078
+Endurace CF SLX Disc 8.0 ETAP,5099.0,5499.0,S,Stealth,50014359_0001062807,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-disc-8.0-etap/50014359.html,€,False,True,2022-03-13 05:00:19.368078
+Grail CF SLX 8 Di2,5099.0,5199.0,M,Forest Fade,50030246_0001062933,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-slx-8-di2/50030246.html,€,False,True,2022-03-13 05:00:19.368078
+Spectral 29 CF 9,5699.0,5799.0,L,Big Bamboo,50029749_0001063080,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-29-cf-9/50029749.html,€,False,True,2022-03-13 05:00:19.368078
+Speedmax CF 8 Disc Di2,5899.0,5999.0,M,Off White,50030252_0001063019,https://www.canyon.com/fr-be/promo-velos/vtt/speedmax-cf-8-disc-di2/50030252.html,€,False,True,2022-03-13 05:00:19.368078
+Endurace CF SLX 9 Di2,7499.0,7799.0,L,Stealth,50030231_0001062918,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-di2/50030231.html,€,False,True,2022-03-13 05:00:19.368078
+Roadlite:ON 7,3249.0,3399.0,L,Light Grey,50023804_0001056550,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023804.html,€,False,True,2022-03-14 05:00:12.422429
+Roadlite:ON 7,3349.0,3399.0,M,Light Grey,50023722_0001062598,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,True,2022-03-15 05:00:08.948546
+Speedmax CF 8 Disc,3999.0,4199.0,M,Flash Yellow,50029983_0001062622,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc/50029983.html,€,False,True,2022-03-15 05:00:08.948546
+Neuron CF LTD,4649.0,4999.0,L,Limited Black,50019270_0001062916,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-ltd/50019270.html,€,False,True,2022-03-15 05:00:08.948546
+Torque Mullet CF Fabio Wibmer,5699.0,5799.0,L,Shockwaves,50030121_0001062593,https://www.canyon.com/fr-be/promo-velos/vtt/torque-mullet-cf-fabio-wibmer/50030121.html,€,False,True,2022-03-16 05:00:10.895943
+Roadlite:ON 7,3349.0,3399.0,M,Light Grey,50023722_0001062748,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,True,2022-03-17 05:00:10.334481
+Inflite CF SL 8,3349.0,3499.0,L,Frikandel Orange,50026525_0001063112,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-sl-8/50026525.html,€,False,True,2022-03-17 05:00:10.334481
+Inflite CF SLX 9,3849.0,4199.0,L,Super Pink,50024575_0001062339,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-slx-9/50024575.html,€,False,True,2022-03-17 05:00:10.334481
+Torque 29 CF 7,4099.0,4199.0,XL,Kurkuma Kingdom,50029949_0001061883,https://www.canyon.com/fr-be/promo-velos/vtt/torque-29-cf-7/50029949.html,€,False,True,2022-03-17 05:00:10.334481
+Grail CF SLX 8 Di2,5099.0,5199.0,M,Forest Fade,50030246_0001062935,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-slx-8-di2/50030246.html,€,False,True,2022-03-17 05:00:10.334481
+Speedmax CF 8 Disc Di2,5899.0,5999.0,M,Off White,50030252_0001063019,https://www.canyon.com/fr-be/speedmax-cf-8-disc-di2/50030252.html,€,False,True,2022-03-17 05:00:10.334481
+Ultimate CFR Disc eTap,8349.0,8499.0,M,Rainbow Reflectiv,50029974_0001061626,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cfr-disc-etap/50029974.html,€,False,True,2022-03-17 05:00:10.334481
+Commuter 5 WMN,1019.0,1099.0,XS,Mustard,50024664_0001063029,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-5-wmn/50024664.html,€,False,True,2022-03-19 05:00:29.153302
+Endurace 7 RB,1249.0,1299.0,S,Stealth,50030181_0001063414,https://www.canyon.com/fr-be/promo-velos/route/endurace-7-rb/50030181.html,€,False,True,2022-03-19 05:00:29.153302
+Grand Canyon 8 WMN,1299.0,1449.0,XS,Unicorn White,50019001_0001063256,https://www.canyon.com/fr-be/promo-velos/vtt/grand-canyon-8-wmn/50019001.html,€,False,True,2022-03-19 05:00:29.153302
+Stitched 360 Pro,1349.0,1499.0,L,Storm Grey,50019469_0001063248,https://www.canyon.com/fr-be/promo-velos/vtt/stitched-360-pro/50019469.html,€,False,True,2022-03-19 05:00:29.153302
+Stitched 360 Pro,1369.0,1499.0,S,Storm Grey,50019050_0001063028,https://www.canyon.com/fr-be/promo-velos/vtt/stitched-360-pro/50019050.html,€,False,True,2022-03-19 05:00:29.153302
+Pathlite 7 WMN,1499.0,1599.0,XS,Shadow Grey,50023793_0001063408,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-7-wmn/50023793.html,€,False,True,2022-03-19 05:00:29.153302
+Roadlite CF 8 WMN,1699.0,1799.0,S,Light Grey,50019428_0001063122,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8-wmn/50019428.html,€,False,True,2022-03-19 05:00:29.153302
+Roadlite CF 8 WMN,1699.0,1799.0,L,Light Grey,50024520_0001063030,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-cf-8-wmn/50024520.html,€,False,True,2022-03-19 05:00:29.153302
+Exceed CF SL 6.9 Pro Race,1799.0,2299.0,M,topeak-ergon racing team,161153_0001061439,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-sl-6.9-pro-race/161153.html,€,False,True,2022-03-19 05:00:29.153302
+Grizl 7 Suspension,1949.0,1999.0,2XL,Matcha,50030270_0001063125,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-7-suspension/50030270.html,€,False,True,2022-03-19 05:00:29.153302
+Grail 7 eTap,2099.0,2199.0,2XS,Forest,50030272_0001063134,https://www.canyon.com/fr-be/promo-velos/gravel/grail-7-etap/50030272.html,€,False,True,2022-03-19 05:00:29.153302
+Commuter 9 LTD,2399.0,2499.0,L,Grey,50030122_0001063199,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-9-ltd/50030122.html,€,False,True,2022-03-19 05:00:29.153302
+Commuter 9 LTD,2399.0,2499.0,M,Grey,50030178_0001063234,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-9-ltd/50030178.html,€,False,True,2022-03-19 05:00:29.153302
+Endurace:ON 7.0,2549.0,2999.0,M,Asphalt Black,50017964_0001063109,https://www.canyon.com/fr-be/promo-velos/electriques/endurace-on-7.0/50017964.html,€,False,True,2022-03-19 05:00:29.153302
+Exceed CF 7,2599.0,2799.0,L,Quick Silver,50019059_0001063241,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50019059.html,€,False,True,2022-03-19 05:00:29.153302
+Inflite CF SL 7,2649.0,2799.0,S,Prestige Pink,50030305_0001063263,https://www.canyon.com/fr-be/promo-velos/route/inflite-cf-sl-7/50030305.html,€,False,True,2022-03-19 05:00:29.153302
+Exceed CF 7,2749.0,2899.0,L,Quick Silver,50029907_0001063362,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50029907.html,€,False,True,2022-03-19 05:00:29.153302
+Pathlite:ON 6,2849.0,2999.0,XL,Tundra Green,50022955_0001063145,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-6/50022955.html,€,False,True,2022-03-19 05:00:29.153302
+Exceed CF 7,2849.0,2899.0,M,Quick Silver,50030110_0001063103,https://www.canyon.com/fr-be/promo-velos/vtt/exceed-cf-7/50030110.html,€,False,True,2022-03-19 05:00:29.153302
+Grizl CF SL 8 Suspension,2949.0,3199.0,XL,Earl Grey,50029703_0001063108,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-8-suspension/50029703.html,€,False,True,2022-03-19 05:00:29.153302
+Pathlite:ON 7,2949.0,3399.0,XL,Stealth,50022923_0001063135,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-7/50022923.html,€,False,True,2022-03-19 05:00:29.153302
+Spectral 125 AL 6,2949.0,2999.0,M,Flat Earth,50030290_0001063204,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-125-al-6/50030290.html,€,False,True,2022-03-19 05:00:29.153302
+Roadlite:ON 7,3149.0,3399.0,M,Light Grey,50023722_0001063182,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023722.html,€,False,True,2022-03-19 05:00:29.153302
+Commuter:ON 7 WMN,3149.0,3299.0,M,Champagne,50023475_0001063106,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50023475.html,€,False,True,2022-03-19 05:00:29.153302
+Grizl CF SL 7 eTap,3149.0,3299.0,M,Wildberry Splatter,50029816_0001063176,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-7-etap/50029816.html,€,False,True,2022-03-19 05:00:29.153302
+Roadlite:ON 7,3149.0,3399.0,S,Light Grey,50023763_0001063249,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-on-7/50023763.html,€,False,True,2022-03-19 05:00:29.153302
+Grizl CF SL 7 eTap,3249.0,3299.0,XL,Earl Grey,50029824_0001063246,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-sl-7-etap/50029824.html,€,False,True,2022-03-19 05:00:29.153302
+Commuter:ON 7 WMN,3249.0,3299.0,XS,Cherry,50019849_0001063202,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50019849.html,€,False,True,2022-03-19 05:00:29.153302
+Ultimate CF SL 7 Disc eTap,3249.0,3299.0,2XL,True Dark Red,50030275_0001063206,https://www.canyon.com/fr-be/promo-velos/route/ultimate-cf-sl-7-disc-etap/50030275.html,€,False,True,2022-03-19 05:00:29.153302
+Commuter:ON 7 WMN,3249.0,3299.0,M,Cherry,50024662_0001063355,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-on-7-wmn/50024662.html,€,False,True,2022-03-19 05:00:29.153302
+Spectral 125 CF 7,3449.0,3499.0,XL,Big Bamboo,50030267_0001063126,https://www.canyon.com/fr-be/promo-velos/vtt/spectral-125-cf-7/50030267.html,€,False,True,2022-03-19 05:00:29.153302
+Speedmax CF 7 DISC,3499.0,3699.0,M,Flash Yellow,50019745_0001063255,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc/50019745.html,€,False,True,2022-03-19 05:00:29.153302
+Strive CF 8,3949.0,4199.0,S,X-Ray,50030268_0001063130,https://www.canyon.com/fr-be/promo-velos/vtt/strive-cf-8/50030268.html,€,False,True,2022-03-19 05:00:29.153302
+Speedmax CF 8 Disc,3999.0,4199.0,M,Flash Yellow,50029983_0001063071,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc/50029983.html,€,False,True,2022-03-19 05:00:29.153302
+Grail CF SL 8 Di2,4099.0,4199.0,L,Sand,50030296_0001063203,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-sl-8-di2/50030296.html,€,False,True,2022-03-19 05:00:29.153302
+Torque:ON 8,4449.0,4799.0,L,Shades of Stealth,50019616_0001063011,https://www.canyon.com/fr-be/promo-velos/electriques/torque-on-8/50019616.html,€,False,True,2022-03-19 05:00:29.153302
+Pathlite:ON 9.0,4549.0,4999.0,M,Tundra Green,50019748_0001063143,https://www.canyon.com/fr-be/outlet/fitness-bikes/pathlite-on-9.0/50019748.html,€,False,True,2022-03-19 05:00:29.153302
+Grizl CF SLX 8 Di2,4599.0,4699.0,M,Kale Smash,50024742_0001063201,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-di2/50024742.html,€,False,True,2022-03-19 05:00:29.153302
+Torque Mullet CF 8,4599.0,4799.0,XL,Exhaust Black,50030302_0001063266,https://www.canyon.com/fr-be/promo-velos/vtt/torque-mullet-cf-8/50030302.html,€,False,True,2022-03-19 05:00:29.153302
+Spectral:ON CF 8.0,4699.0,5599.0,XL,Shades of Stealth,50018689_0001062945,https://www.canyon.com/fr-be/promo-velos/electriques/spectral-on-cf-8.0/50018689.html,€,False,True,2022-03-19 05:00:29.153302
+Grizl CF SLX 8 eTap Suspension,4749.0,4999.0,XL,Kale Smash,50030301_0001063265,https://www.canyon.com/fr-be/promo-velos/gravel/grizl-cf-slx-8-etap-suspension/50030301.html,€,False,True,2022-03-19 05:00:29.153302
+Speedmax CF 7 Disc eTap,4899.0,4999.0,XS,Stealth,50029951_0001063252,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-7-disc-etap/50029951.html,€,False,True,2022-03-19 05:00:29.153302
+Grail CF SLX 8 Di2,5099.0,5199.0,L,Forest Fade,50030187_0001063195,https://www.canyon.com/fr-be/promo-velos/gravel/grail-cf-slx-8-di2/50030187.html,€,False,True,2022-03-19 05:00:29.153302
+Neuron CF SLX 9,5249.0,5599.0,M,Visible Black,50019377_0001063262,https://www.canyon.com/fr-be/promo-velos/vtt/neuron-cf-slx-9/50019377.html,€,False,True,2022-03-19 05:00:29.153302
+Speedmax CF 8 Disc Di2,5699.0,5999.0,M,Stealth,50030155_0001063123,https://www.canyon.com/fr-be/speedmax-cf-8-disc-di2/50030155.html,€,False,True,2022-03-19 05:00:29.153302
+Ultimate CF SLX 9.0 Team Movistar,5799.0,6999.0,XS,Movistar Blue,50014269_0001062365,https://www.canyon.com/fr-be/promo-velos/professionnels/ultimate-cf-slx-9.0-team-movistar/50014269.html,€,False,True,2022-03-19 05:00:29.153302
+Ultimate CF SLX 9.0 Team Movistar,5799.0,7299.0,L,Movistar Blue,50014272_0001062362,https://www.canyon.com/fr-be/promo-velos/professionnels/ultimate-cf-slx-9.0-team-movistar/50014272.html,€,False,True,2022-03-19 05:00:29.153302
+Speedmax CF 8 DISC eTap,6199.0,6499.0,S,Non Mint,50019499_0001063081,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-8-disc-etap/50019499.html,€,False,True,2022-03-19 05:00:29.153302
+Lux CF SLX 9 LTD,6849.0,6999.0,M,Eclipse White,50030055_0001061932,https://www.canyon.com/fr-be/promo-velos/vtt/lux-cf-slx-9-ltd/50030055.html,€,False,True,2022-03-19 05:00:29.153302
+Speedmax CF SLX 9.0 TT,6999.0,9499.0,L,half blue,50009232_0001063150,https://www.canyon.com/fr-be/promo-velos/route/speedmax-cf-slx-9.0-tt/50009232.html,€,False,True,2022-03-19 05:00:29.153302
+Endurace CF SLX 9 Disc eTap,7549.0,7699.0,XS,Stealth,50030022_0001063124,https://www.canyon.com/fr-be/promo-velos/route/endurace-cf-slx-9-disc-etap/50030022.html,€,False,True,2022-03-19 05:00:29.153302
+Roadlite 6,1119.0,1199.0,M,Light Grey,50019178_0001063254,https://www.canyon.com/fr-be/outlet/fitness-bikes/roadlite-6/50019178.html,€,False,True,2022-03-20 05:00:19.245631
+Precede:ON CF 9 ST,4349.0,4999.0,S,Champagne,50023563_0001062293,https://www.canyon.com/fr-be/outlet/urban-bikes/precede-on-cf-9-st/50023563.html,€,False,True,2022-03-20 05:00:19.245631
+Commuter 7 WMN,1699.0,1799.0,M,Champagne,50022925_0001063117,https://www.canyon.com/fr-be/outlet/urban-bikes/commuter-7-wmn/50022925.html,€,True,True,2022-03-21 05:00:14.652709
